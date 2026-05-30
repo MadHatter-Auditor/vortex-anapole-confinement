@@ -1,0 +1,19 @@
+Notice of Open Source Hardware Licensing
+The hardware designs, schematic layouts, matrices, and geometric documentation contained within this document—including but not limited to the Zodiac Coil architecture, the Bifilar Conical Caduceus Coil arrays, and the Trailokya Coil configurations—are officially released and protected under the CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S v2) (pp. 1, 20, 32).
+Any person or entity is welcome to use, study, modify, share, and distribute these designs, or make products based upon them, provided they comply with the strict terms of this strongly reciprocal license.
+
+=======================================================================
+                  LICENSE VERIFICATION BLOCK (CERN-OHL-S)
+=======================================================================
+                  [ Licensor ] : S. v Harten
+                  [ Variant ]  : Strongly Reciprocal (S)
+                  [ Version ]  : 2.0 or any later version
+                  [ Core Law ] : Complete Source Disclosure
+=======================================================================
+
+Foundational Licensing Terms and Conditions:
+1. Strict Reciprocity (Copyleft Modification Rule): If you convey any modified version of this Covered Source, or any associated Product derived from these geometric blueprints, you are legally bound to license all such derivative works under the exact same variant of the CERN Open Hardware Licence (CERN-OHL-S v2 or later). You cannot hide derivative modifications behind commercial confidentiality or proprietary patents.
+2. Complete Source Disclosure: Anyone who manufactures or distributes hardware based on these specifications must provide each recipient with a copy of the Complete Source or provide the exact Source Location where all design files can be freely obtained.
+3. Preservation of Intellectual Ownership: All original copyright notices, license warnings, and references to the historical and mathematical lineage contained herein must remain fully intact on all copies and documentation.
+4. Express Patent Peace Clause: This license includes an irrevocable, royalty-free patent license granted to the recipient. However, if any entity institutes patent litigation against the author or other licensees claiming that this hardware design infringes a patent, all rights granted under this license shall terminate with immediate effect.
+5. Disclaimer of Warranty and Limitation of Liability: The CERN-OHL-S v2 license stipulates that the covered designs and products are provided "as is," without any warranty of quality, performance, or merchantability. The Licensor (S. v Harten) holds no liability for any direct, indirect, or consequential damages resulting from the use or distribution of the designs.
