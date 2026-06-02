@@ -5,3 +5,4 @@ Read the PDF file called Base-12 Microcosm.
 <<note from author, added RC split ring resonator. 1-6-26>>
 <<note from author, added RC thin wire raster drawing. 2-6-26>>
 <<note from author, added topics. 2-6-26>>
+<<note from author, added alchemic correlation in resistance trough RC.pdf 2-6-26>>
