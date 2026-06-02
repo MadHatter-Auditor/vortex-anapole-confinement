@@ -8,3 +8,4 @@ Read the PDF file called Base-12 Microcosm.
 <<note from author, added alchemic correlation in resistance trough RC.pdf 2-6-26>>
 <<note from author, added multiple drawings and cleaned up some mess see commits 2-6-26>>
 <<note from author, did apeal two times but still shadowbanned on reddit, no responce about it either from mods, still no idea what happend>>
+<<note from author, SOH fractals did improve but they are still a bitt faulty, one should not expect a perfect SLDPRT.. on the macro scale it looks fine but it is incorrect on the micro scale. need to rework or redesign that later but improvements or fixes are welcome. 2-6-26>>
