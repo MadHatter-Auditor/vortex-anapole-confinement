@@ -12,3 +12,4 @@ Read the PDF file called Base-12 Microcosm.
 <<note from author, added the book of signs, this is all i could find because most if it is lost media, i cannot scan in my personal collection at this moment so this must suffice for you all. 3-6-26>>
 <<note from author, added a new section in the material roadmap about the Leibniz' Binary System and Shao Yong's "Yijing 4-6-26>>
 <<note from author, added a new section in the material roadmap called: The Wu Xing binary system. 4-6-26>>
+<<note from author, added The Meta-Academic Response Framework (MARF). 4-6-26>>
