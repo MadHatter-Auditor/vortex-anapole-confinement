@@ -28,6 +28,7 @@ Alchemical alpha omega torus basis & alchemical alpha omega torus
 graph Nordic runes on zodiac.jpg
 
 contents part 2 Material Roadmap.pdf
+
 RC simple coil.SLDPRT & RC simple coil.jpg
 RC thin wire raster drawing.SLDDRW & RC thin wire raster.png
 RC split ring resonator drawing.SLDDRW & RC split ring resonator Drawing.png
