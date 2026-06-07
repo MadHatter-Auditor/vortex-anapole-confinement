@@ -33,6 +33,18 @@ RC simple coil.SLDPRT & RC simple coil.jpg
 RC thin wire raster drawing.SLDDRW & RC thin wire raster.png
 RC split ring resonator drawing.SLDDRW & RC split ring resonator Drawing.png
 
+contents part 3 Asterion Perun Machine (APM).pdf
+
+QEG P1 PIN IN ROTOR.SLDPRT &QEG PIN IN STATOR.SLDPRT
+QEG P1 PVC PART.SLDPRT & QEC P1 MICA PLATE.SLDPRT
+QEG P1 STATOR & ROTOR.SLDASM
+QEG P2 BACKPLATE.SLDPRT & QEG P2 FRONTPLATE.SLDPRT
+QEG P2 BOTTOMPLATE.SLDPRT & QEG P2 BOLT.SLDPRT
+QEG P2 ROTOR PIN P1.SLDPRT & QEG P2 ROTOR PIN P2.SLDPRT
+QEG ROTOR PARTS ASSEMBLY 1.png & QEG ROTOR PARTS ASSEMBLY 2.png
+QEG ROTOR PARTS DRAWING.SLDPRT & QEG ROTOR PARTS DRAWING.png
+QEG ROTOR PARTS REWORKED.SLDASM & QEG STATOR PARTS DRAWING.SLDDRW
+QEG STATOR PARTS DRAWING.png & QEG STATOR PARTS REWORKED.SLDASM
 
 Appendix
 The Meta-Academic Response Framework (MARF)
@@ -52,3 +64,4 @@ The-Book-Of-Signs-Vol-i_text.pdf
 <<note from author, added a new section in the material roadmap called: The Wu Xing binary system. 4-6-26>>
 <<note from author, added The Meta-Academic Response Framework (MARF). 4-6-26>>
 <<note from author, reworked README to provide a more clear overvieuw. 4-6-26>>
+<<note from author, added The Asterion Perun Machine and reworked readme 7-6-26>>
