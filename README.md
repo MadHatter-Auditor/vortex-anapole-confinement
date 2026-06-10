@@ -67,3 +67,4 @@ The-Book-Of-Signs-Vol-i_text.pdf
 <<note from author, added The Asterion Perun Machine and reworked readme 7-6-26>>
 <<note from author, deleted my reddit profile because of the ban and no responce even while being polite, i do not waste my time with them so i deleted my info since it has no purpose besides being a reminder. 8-6-26>>
 <<note from author, added the first 9 day report. ALEA IACTA EST! 8-6-26>>
+<<note from author, made a newe release under version 2.0.0 11-6-26>>
