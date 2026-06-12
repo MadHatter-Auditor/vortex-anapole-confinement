@@ -63,6 +63,7 @@ The-Book-Of-Signs-Vol-i_text.pdf
 <<note from author, added a new section in the material roadmap about the Leibniz' Binary System and Shao Yong's "Yijing 4-6-26>>
 <<note from author, added a new section in the material roadmap called: The Wu Xing binary system. 4-6-26>>
 <<note from author, added The Meta-Academic Response Framework (MARF). 4-6-26>>
+<<note from author, updated the Material roadmap, defined using π. 12-6-26>>
 <<note from author, reworked README to provide a more clear overvieuw. 4-6-26>>
 <<note from author, added The Asterion Perun Machine and reworked readme 7-6-26>>
 <<note from author, deleted my reddit profile because of the ban and no responce even while being polite, i do not waste my time with them so i deleted my info since it has no purpose besides being a reminder. 8-6-26>>
