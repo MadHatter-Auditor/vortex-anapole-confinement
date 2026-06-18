@@ -70,3 +70,4 @@ The-Book-Of-Signs-Vol-i_text.pdf
 <<note from author, added the first 9 day report. ALEA IACTA EST! 8-6-26>>
 <<note from author, made a new release under version 2.0.0 11-6-26>>
 <<note from author, Buisy with something new, expect an update with some findings somewhere in the upcoming day's 17-6-26>>
+<<note from author, i got approved to post on hackaday so the project is online there. 18-6-26>>
