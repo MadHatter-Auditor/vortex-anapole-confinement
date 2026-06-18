@@ -2,6 +2,7 @@ Read the PDF file called Base-12 Microcosm.
 
 Contents part 1 Base-12 Microcosm.pdf
 
+Zodiac coil.png
 Assem1.SLDASM & Assem1.SLDDRW
 Base-12 Klock system α & ω.png
 Bifilar Conical Caduceus Coil.jpg
@@ -71,3 +72,4 @@ The-Book-Of-Signs-Vol-i_text.pdf
 <<note from author, made a new release under version 2.0.0 11-6-26>>
 <<note from author, Buisy with something new, expect an update with some findings somewhere in the upcoming day's 17-6-26>>
 <<note from author, i got approved to post on hackaday so the project is online there. 18-6-26>>
+<<note from author, added zodiac coil.png wich i forgot to add. 18-6-26>>
