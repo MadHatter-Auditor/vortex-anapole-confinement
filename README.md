@@ -48,6 +48,7 @@ QEG ROTOR PARTS REWORKED.SLDASM & QEG STATOR PARTS DRAWING.SLDDRW
 QEG STATOR PARTS DRAWING.png & QEG STATOR PARTS REWORKED.SLDASM
 
 contents part 4 Soyga.pdf
+
 Greek Soyga Matrix colloured.xlsx
 Greek Soyga Matrix.xlsx
 
