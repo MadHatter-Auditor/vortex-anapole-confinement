@@ -47,6 +47,10 @@ QEG ROTOR PARTS DRAWING.SLDPRT & QEG ROTOR PARTS DRAWING.png
 QEG ROTOR PARTS REWORKED.SLDASM & QEG STATOR PARTS DRAWING.SLDDRW
 QEG STATOR PARTS DRAWING.png & QEG STATOR PARTS REWORKED.SLDASM
 
+contents part 4 Soyga.pdf
+Greek Soyga Matrix colloured.xlsx
+Greek Soyga Matrix.xlsx
+
 Appendix
 The Meta-Academic Response Framework (MARF)
 The-Book-Of-Signs-Vol-i_text.pdf
@@ -73,3 +77,4 @@ The-Book-Of-Signs-Vol-i_text.pdf
 <<note from author, Buisy with something new, expect an update with some findings somewhere in the upcoming day's 17-6-26>>
 <<note from author, i got approved to post on hackaday so the project is online there. 18-6-26>>
 <<note from author, added zodiac coil.png wich i forgot to add. 18-6-26>>
+<<note from author, added part 4 soyga, including xlsx files for transparancy. 19-6-2026>>
