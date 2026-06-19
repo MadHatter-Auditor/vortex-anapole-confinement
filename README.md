@@ -52,9 +52,12 @@ contents part 4 Soyga.pdf
 Greek Soyga Matrix colloured.xlsx
 Greek Soyga Matrix.xlsx
 
+
 Appendix
 The Meta-Academic Response Framework (MARF)
 The-Book-Of-Signs-Vol-i_text.pdf
+
+
 
 <<note from author, banned on reddit so please share>>
 <<note from author, added RC simple coil. 1-6-26>>
