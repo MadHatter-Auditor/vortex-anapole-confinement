@@ -56,8 +56,10 @@ Greek Soyga Matrix.xlsx
 Appendix
 The Meta-Academic Response Framework (MARF)
 The-Book-Of-Signs-Vol-i_text.pdf
-
-
+first 9 day'report.png
+second 9 day'report.png
+9 day'reports.png
+21-6-2026 Authors note.
 
 <<note from author, banned on reddit so please share>>
 <<note from author, added RC simple coil. 1-6-26>>
@@ -82,4 +84,4 @@ The-Book-Of-Signs-Vol-i_text.pdf
 <<note from author, i got approved to post on hackaday so the project is online there. 18-6-26>>
 <<note from author, added zodiac coil.png wich i forgot to add. 18-6-26>>
 <<note from author, added part 4 soyga, including xlsx files for transparancy. 19-6-2026>>
-<<note from author, added the second 9 day report. VIVAT SOL ET IGNIS SACER! 21-6-26>>
+<<note from author, added the second 9 day'report.png, 9 day'reports.png, 21-6-2026 Authors note.txt and updated readme accordingly VIVAT SOL ET IGNIS SACER! 21-6-26>>
