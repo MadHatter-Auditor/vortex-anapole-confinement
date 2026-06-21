@@ -82,3 +82,4 @@ The-Book-Of-Signs-Vol-i_text.pdf
 <<note from author, i got approved to post on hackaday so the project is online there. 18-6-26>>
 <<note from author, added zodiac coil.png wich i forgot to add. 18-6-26>>
 <<note from author, added part 4 soyga, including xlsx files for transparancy. 19-6-2026>>
+<<note from author, added the second 9 day report. ALEA IACTA EST! 21-6-26>>
