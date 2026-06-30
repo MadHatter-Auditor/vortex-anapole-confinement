@@ -52,6 +52,25 @@ contents part 4 Soyga.pdf
 Greek Soyga Matrix colloured.xlsx
 Greek Soyga Matrix.xlsx
 
+contents part 5 RCM.pdf
+Allen component.SLDPRT & Base parts 1.png
+Base parts 2.png & Base parts 3.png
+Base parts and Galvanic Cell.SLDASM & Base parts and Galvanic Cell.SLDDRW
+Complete.SLDASM & Final assembly.SLDDRW
+Galvanic Cell and remaining base parts.SLDDRW & Galvanic Cell and remaining base.pdf
+Galvanic Cell.SLDASM & antenna Parts.SLDDRW
+antenna and TEP.SLDASM & antenna spikes.SLDPRT
+antenna.SLDPRT & base Parts 2.SLDASM
+base Parts 3.SLDASM & base Parts Antenna.SLDASM
+base Parts P1.SLDDRW & base Parts P2.SLDDRW
+base Parts.SLDASM & base Parts.SLDDRW
+base for antenna.SLDPRT & base front.SLDPRT
+base sides.SLDPRT & base.SLDPRT
+bolt 2.SLDPRT & bolt backside.SLDPRT
+copper.SLDPRT & copper 2.SLDPRT
+pin for rod through base.SLDPRT & solding spots.SLDPRT
+steel rod trough base.SLDPRT & tep part.SLDASM
+zink.SLDPRT & zink 2.SLDPRT
 
 Appendix
 The Meta-Academic Response Framework (MARF)
@@ -86,3 +105,4 @@ second 9 day'report.png
 <<note from author, added part 4 soyga, including xlsx files for transparancy. 19-6-2026>>
 <<note from author, added the second 9 day'report.png, 9 day'reports.png, 21-6-2026 Authors note.txt and updated readme accordingly VIVAT SOL ET IGNIS SACER! 21-6-26>>
 <<note from author, made a new release under version 2.1.0 21-6-26>>
+<<note from author, added part 5 RCM.pdf,, electroculture apparatus blueprints. 30-6-2026>>
