@@ -79,6 +79,7 @@ first 9 day'report.png
 second 9 day'report.png
 9 day'reports.png
 21-6-2026 Authors note.
+Justin Christofleau - Electroculture (english) - 1927.pdf
 
 <<note from author, banned on reddit so please share>>
 <<note from author, added RC simple coil. 1-6-26>>
@@ -106,3 +107,4 @@ second 9 day'report.png
 <<note from author, added the second 9 day'report.png, 9 day'reports.png, 21-6-2026 Authors note.txt and updated readme accordingly VIVAT SOL ET IGNIS SACER! 21-6-26>>
 <<note from author, made a new release under version 2.1.0 21-6-26>>
 <<note from author, added part 5 RCM.pdf,, electroculture apparatus blueprints. 30-6-2026>>
+<<note from author, Justin Christofleau - Electroculture (english) - 1927.pdf to appendix 30-6-2026>>
