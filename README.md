@@ -108,3 +108,4 @@ Justin Christofleau - Electroculture (english) - 1927.pdf
 <<note from author, made a new release under version 2.1.0 21-6-26>>
 <<note from author, added part 5 RCM.pdf,, electroculture apparatus blueprints. 30-6-2026>>
 <<note from author, Justin Christofleau - Electroculture (english) - 1927.pdf to appendix 30-6-2026>>
+<<note from author, Adding a new chapter to the soyga, an update to that is incoming. 3-7-2026>>
