@@ -18,7 +18,9 @@ The complete legal text of the licenses can be verified and downloaded at:
 Official Hardware Steward: https://ohwr.org (SPDX: CERN-OHL-S-2.0)
 Official Software Steward: https://gnu.org (SPDX: AGPL-3.0-or-later)
 
-Foundational Licensing Terms and Conditions:
+=======================================================================
+                  FOUNDATIONAL LICENSING TERMS AND CONDITIONS
+=======================================================================
 
 1. Strict Reciprocity (Copyleft Modification Rule): If you convey any modified version of this Covered Source, or any associated Product, software, or web service derived from these geometric blueprints and scripts, you are legally bound to license all such derivative works under the exact same variant of the respective license (CERN-OHL-S-2.0 or later for hardware; AGPL-3.0-or-later for software/network services). You cannot hide derivative modifications behind commercial confidentiality or proprietary patents.
 2. Complete Source & Code Disclosure: Anyone who manufactures hardware or distributes software/network services based on these specifications must provide each recipient with a copy of the Complete Source, programming code, or provide the exact Source Location where all design files and scripts can be freely obtained.
