@@ -34,7 +34,7 @@ RC simple coil.SLDPRT & RC simple coil.jpg
 RC thin wire raster drawing.SLDDRW & RC thin wire raster.png
 RC split ring resonator drawing.SLDDRW & RC split ring resonator Drawing.png
 
-contents part 3 Asterion Perun Machine (APM).pdf
+contents part 3 APM.pdf
 
 QEG P1 PIN IN ROTOR.SLDPRT &QEG PIN IN STATOR.SLDPRT
 QEG P1 PVC PART.SLDPRT & QEC P1 MICA PLATE.SLDPRT
