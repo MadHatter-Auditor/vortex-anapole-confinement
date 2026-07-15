@@ -43,7 +43,6 @@ Alchemical alpha omega torus basis
 alchemical alpha omega torus
 graph Nordic runes on zodiac.jpg
 
-=======================================================================
 contents part 2 Material Roadmap.
 =======================================================================
 
@@ -55,7 +54,6 @@ RC thin wire raster.png
 RC split ring resonator drawing.SLDDRW
 RC split ring resonator Drawing.png
 
-=======================================================================
 contents part 3 APM.
 =======================================================================
 
@@ -80,7 +78,6 @@ QEG STATOR PARTS DRAWING.SLDDRW
 QEG STATOR PARTS DRAWING.png
 QEG STATOR PARTS REWORKED.SLDASM
 
-=======================================================================
 contents part 4 Soyga.
 =======================================================================
 
@@ -90,7 +87,6 @@ Greek Soyga Matrix.xlsx
 Greek Collatz Soyga Matrix colloured.xlsx
 Greek Collatz Soyga Matrix.xlsx
 
-=======================================================================
 contents part 5 RCM.
 =======================================================================
 
@@ -132,7 +128,6 @@ tep part.SLDASM
 zink.SLDPRT
 zink 2.SLDPRT
 
-=======================================================================
 Appendix.
 =======================================================================
 
@@ -141,7 +136,6 @@ The-Book-Of-Signs-Vol-i_text.pdf
 21-6-2026 Authors note.
 Justin Christofleau - Electroculture (english) - 1927.pdf
 
-=======================================================================
 REPORT.
 =======================================================================
 
@@ -151,7 +145,6 @@ third 9 day'report.png
 9 day'reports.png
 9 day'reports 2.png
 
-=======================================================================
 Authors notes.
 =======================================================================
 
