@@ -51,6 +51,8 @@ contents part 4 Soyga.pdf
 
 Greek Soyga Matrix colloured.xlsx
 Greek Soyga Matrix.xlsx
+Greek Collatz Soyga Matrix colloured.xlsx
+Greek Collatz Soyga Matrix.xlsx
 
 contents part 5 RCM.pdf
 
@@ -100,3 +102,4 @@ Justin Christofleau - Electroculture (english) - 1927.pdf
 <<note from author, added part 5 RCM.pdf, electroculture apparatus blueprints, Justin Christofleau - Electroculture (english) - 1927.pdf to appendix 30-6-2026>>
 <<note from author, Adding a new chapter to the soyga, an update to that is incoming. 3-7-2026>>
 <<note from author, added the second 9 day'report.png, 9 day'reports 2.png and reworked the readme. 4-7-26>>
+<<note from author, updated the soyga, now with the Collatz matrix included. 15-7-26>>
