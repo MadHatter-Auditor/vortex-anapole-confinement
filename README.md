@@ -16,7 +16,6 @@ Hiemona Coil Measurements radius plus paths.jpg
 Hiemona Coil Paths.jpg
 Hiemona Coil.jpg
 Hieroglyphica monas.SLDPRT
-Module-12 2D.SLDASM
 Module 12 2D.SLDPRT
 Module-12 Assembly.SLDASM
 Module-12 Coil main.SLDPRT
