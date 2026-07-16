@@ -148,4 +148,4 @@ Authors notes.
 <<note from author, Adding a new chapter to the soyga, an update to that is incoming. 3-7-2026>>
 <<note from author, added the second 9 day'report.png, 9 day'reports 2.png and reworked the readme. 4-7-26>>
 <<note from author, updated the soyga, now with the Collatz matrix included, made the license a dual license and reworked readme 15-7-26>>
-<<note from author, updated the licenses to AGPL-3.0-only and made shure i put it down as correctly as i could 16-7-26>>
+<<note from author, updated the licenses to AGPL-3.0-only and made shure i put it down as correctly as i could. also initiated contact with an local university in order to digitalize my personal collection of the works of G.H.Mees, this is is a personal effort to combat lost media. 16-7-26>>
