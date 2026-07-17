@@ -22,9 +22,9 @@ Module-12 Assembly.SLDASM
 Module-12 Assembly.png
 Module-12 Coil main.SLDPRT
 Module-12 Coil sub.SLDPRT
+SOH Antenna fractals.SLDPRT
+SOH Antenna p2 base.SLDPRT
 SOH Tower.png
-SOH antenna fractals.SLDPRT
-SOH antenna p2 base.SLDPRT
 SOH fractals collours.png
 Seal of Hermes measurements.jpg
 Seal of Hermes symbol.SLDPRT
@@ -156,3 +156,4 @@ Authors notes.
 <<note from author, updated the soyga, now with the Collatz matrix included, made the license a dual license and reworked readme 15-7-26>>
 <<note from author, updated the licenses to AGPL-3.0-only and made shure i put it down as correctly as i could. also initiated contact with an local university in order to digitalize my personal collection of the works of G.H.Mees, this is is a personal effort to combat lost media. 16-7-26>>
 <<note from author, added the third 9 day'report.png, and 9 day'reports 3.png, a great thanks to all who are interested! <3. also made slight changes to repository, to remove bloat the .SLDDRW files are removed since there are also drawings and the sourcefiles present. a bitt overkill i would say.. 17-7-26>>
+(222)
