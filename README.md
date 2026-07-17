@@ -22,22 +22,21 @@ Module-12 Assembly.SLDASM
 Module-12 Assembly.png
 Module-12 Coil main.SLDPRT
 Module-12 Coil sub.SLDPRT
-Trailokya coil.SLDPRT
-Trailokya coil.png
 SOH Tower.png
-SOH fractals collours.png
 SOH antenna fractals.SLDPRT
 SOH antenna p2 base.SLDPRT
-SOH antenna.SlDDRW
-Seal of Hermes symbol.SLDPRT
+SOH fractals collours.png
 Seal of Hermes measurements.jpg
+Seal of Hermes symbol.SLDPRT
+Sri Yantra Base Drawing.SLDDRW
+Sri yantra Coil half.SLDPRT
+Sri yantra Coil.SLDPRT
 Sri Yantra measurements radius plus paths.jpg
 Sri Yantra measurements radius.jpg
-Sri yantra Coil.SLDPRT
-Sri yantra Coil half.SLDPRT
-Sri Yantra Base Drawing.SLDDRW
-graph Nordic runes on zodiac.jpg
+Trailokya coil.SLDPRT
+Trailokya coil.png
 Zodiac coil.png
+graph Nordic runes on zodiac.jpg
 
 contents part 2 Material Roadmap.
 =======================================================================
