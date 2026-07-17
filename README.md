@@ -44,24 +44,28 @@ contents part 2 Material Roadmap.
 Material Roadmap.pdf
 RC Simple coil.SLDPRT
 RC Simple coil.jpg
-RC Thin Wire Raster.SLDPRT
-RC Thin Wire Raster.png
 RC Split Ring Resonator Drawing.SLDPRT
 RC Split Ring Resonator Drawing.png
+RC Thin Wire Raster.SLDPRT
+RC Thin Wire Raster.png
 
 contents part 3 APM.
 =======================================================================
 
 APM.pdf
-QEG P1 PIN IN ROTOR.SLDPRT
-QEG PIN IN STATOR.SLDPRT
-QEG P1 PVC PART.SLDPRT
+QEG 4FASE CODING.png
 QEC P1 MICA PLATE.SLDPRT
+QEG P1 PIN IN ROTOR.SLDPRT
+QEG P1 PIN IN STATOR.SLDPRT
+QEG P1 PVC PART.SLDPRT
+QEG P1 ROTOR END.SLDPRT
+QEG P1 ROTOR.SLDPRT
 QEG P1 STATOR & ROTOR.SLDASM
+QEG P1 STATOR.SLDPRT
 QEG P2 BACKPLATE.SLDPRT
-QEG P2 FRONTPLATE.SLDPRT
-QEG P2 BOTTOMPLATE.SLDPRT
 QEG P2 BOLT.SLDPRT
+QEG P2 BOTTOMPLATE.SLDPRT
+QEG P2 FRONTPLATE.SLDPRT
 QEG P2 ROTOR PIN P1.SLDPRT
 QEG P2 ROTOR PIN P2.SLDPRT
 QEG ROTOR PARTS ASSEMBLY 1.png
@@ -76,10 +80,10 @@ contents part 4 Soyga.
 =======================================================================
 
 Soyga.pdf
-Greek Soyga Matrix colloured.xlsx
-Greek Soyga Matrix.xlsx
 Greek Collatz Soyga Matrix colloured.xlsx
 Greek Collatz Soyga Matrix.xlsx
+Greek Soyga Matrix colloured.xlsx
+Greek Soyga Matrix.xlsx
 
 contents part 5 RCM.
 =======================================================================
@@ -90,7 +94,7 @@ Base parts 1.png
 Base parts 2.png
 Base parts 3.png
 Base parts and Galvanic Cell.SLDASM
-Base parts and Galvanic Cell.SLDDRW
+Complete RCM.png
 Complete.SLDASM
 Galvanic Cell and remaining base.pdf
 Galvanic Cell.SLDASM
@@ -156,4 +160,3 @@ Authors notes.
 <<note from author, updated the soyga, now with the Collatz matrix included, made the license a dual license and reworked readme 15-7-26>>
 <<note from author, updated the licenses to AGPL-3.0-only and made shure i put it down as correctly as i could. also initiated contact with an local university in order to digitalize my personal collection of the works of G.H.Mees, this is is a personal effort to combat lost media. 16-7-26>>
 <<note from author, added the third 9 day'report.png, and 9 day'reports 3.png, a great thanks to all who are interested! <3. also made slight changes to repository, to remove bloat the .SLDDRW files are removed since there are also drawings and the sourcefiles present. a bitt overkill i would say.. 17-7-26>>
-(222)
