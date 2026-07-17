@@ -19,7 +19,8 @@ Hieroglyphica monas.SLDPRT
 Module 12 2D.SLDPRT
 Module-12 Assembly.SLDASM
 Module-12 Coil main.SLDPRT
-SOH Tower & SOH fractals collours.jpg
+SOH Tower.png
+SOH fractals collours.png
 SOH antenna fractals.SLDPRT
 SOH antenna p2 base.SLDPRT
 SOH antenna.SlDDRW
@@ -27,9 +28,9 @@ Seal of hermes symbol.SLDPRT
 Seal of Hermes measurements.jpg
 Sri Yantra measurements radius plus paths.jpg
 Sri Yantra measurements radius.jpg
-Sri yantra coil half.SLDPRT
-Sri yantra testdrawing.SLDDRW
-Sri Yantra.SLDDRW
+Sri yantra Coil.SLDPRT
+Sri yantra Coil half.SLDPRT
+Sri Yantra Base Drawing.SLDDRW
 alchemical alpha omega torus basis.png
 alchemical alpha omega torus.png
 graph Nordic runes on zodiac.jpg
@@ -38,10 +39,12 @@ contents part 2 Material Roadmap.
 =======================================================================
 
 Material Roadmap.pdf
-RC simple coil.SLDPRT
-RC simple coil.jpg
-RC thin wire raster.png
-RC split ring resonator Drawing.png
+RC Simple coil.SLDPRT
+RC Simple coil.jpg
+RC Thin Wire Raster.SLDPRT
+RC Thin Wire Raster.png
+RC Split Ring Resonator Drawing.SLDPRT
+RC Split Ring Resonator Drawing.png
 
 contents part 3 APM.
 =======================================================================
