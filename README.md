@@ -3,37 +3,41 @@ Read the PDF file called Base-12 Microcosm.
 Contents part 1 Base-12 Microcosm.
 =======================================================================
 
-Base-12 Microcosm.pdf
-Zodiac coil.png
+Akhenaten grid.png
+Alchemical alpha omega torus basis.png
+Alchemical alpha omega torus.png
 Base-12 Klock system α & ω.png
+Base-12 Microcosm.pdf
 Bifilar Conical Caduceus Coil.jpg
-Cadecus.SLDDRW
 Cadecus.SLDPRT
 Chessboard Base-12.png
-Dodecagram.png & Handmal.jpg
-Hiemona Coil.SLDPRT
+Dodecagram.png 
+Handmap.jpg
 Hiemona Coil Measurements radius plus paths.jpg
 Hiemona Coil Paths.jpg
+Hiemona Coil.SLDPRT
 Hiemona Coil.jpg
 Hieroglyphica monas.SLDPRT
-Module 12 2D.SLDPRT
 Module-12 Assembly.SLDASM
+Module-12 Assembly.png
 Module-12 Coil main.SLDPRT
+Module-12 Coil sub.SLDPRT
+Trailokya coil.SLDPRT
+Trailokya coil.png
 SOH Tower.png
 SOH fractals collours.png
 SOH antenna fractals.SLDPRT
 SOH antenna p2 base.SLDPRT
 SOH antenna.SlDDRW
-Seal of hermes symbol.SLDPRT
+Seal of Hermes symbol.SLDPRT
 Seal of Hermes measurements.jpg
 Sri Yantra measurements radius plus paths.jpg
 Sri Yantra measurements radius.jpg
 Sri yantra Coil.SLDPRT
 Sri yantra Coil half.SLDPRT
 Sri Yantra Base Drawing.SLDDRW
-alchemical alpha omega torus basis.png
-alchemical alpha omega torus.png
 graph Nordic runes on zodiac.jpg
+Zodiac coil.png
 
 contents part 2 Material Roadmap.
 =======================================================================
