@@ -137,10 +137,11 @@ first 9 day'report.png
 second 9 day'report.png
 third 9 day'report.png
 fourth 9 day'report.png
+fifth 9 day'report.png
 9 day'reports.png
 9 day'reports 2.png
 9 day'reports 3.png
-
+9 day'reports 4.png
 
 Authors notes.
 =======================================================================
@@ -157,12 +158,13 @@ Authors notes.
 <<note from author, Buisy with something new, expect an update with some findings somewhere in the upcoming day's 17-6-26>>
 <<note from author, i got approved to post on hackaday so the project is online there, also added zodiac coil.png wich i forgot to add. 18-6-26>>
 <<note from author, added part 4 soyga, including xlsx files for transparancy. 19-6-2026>>
-<<note from author, made a new release under version 2.1.0, added the second 9 day'report.png, 9 day'reports.png, 21-6-2026 Authors note.txt and updated readme accordingly VIVAT SOL ET IGNIS SACER! 21-6-26>>
+<<note from author, made a new release under version 2.1.0, added the second 9 day'reports.png, 9 day'reports.png, 21-6-2026 Authors note.txt and updated readme accordingly VIVAT SOL ET IGNIS SACER! 21-6-26>>
 <<note from author, added part 5 RCM.pdf, electroculture apparatus blueprints, Justin Christofleau - Electroculture (english) - 1927.pdf to appendix 30-6-2026>>
 <<note from author, Adding a new chapter to the soyga, an update to that is incoming. 3-7-2026>>
-<<note from author, added the second 9 day'report.png, 9 day'reports 2.png and reworked the readme. 4-7-26>>
+<<note from author, added the third 9 day'report.png, 9 day'reports 2.png and reworked the readme. 4-7-26>>
 <<note from author, updated the soyga, now with the Collatz matrix included, made the license a dual license and reworked readme 15-7-26>>
 <<note from author, updated the licenses to AGPL-3.0-only and made shure i put it down as correctly as i could. also initiated contact with an local university in order to digitalize my personal collection of the works of G.H.Mees, this is is a personal effort to combat lost media. 16-7-26>>
-<<note from author, added the third 9 day'report.png, and 9 day'reports 3.png, a great thanks to all who are interested! <3. also made slight changes to repository, to remove bloat the .SLDDRW files are removed since there are also drawings and the sourcefiles present. a bitt overkill i would say.. 17-7-26>>
+<<note from author, added the fourth 9 day'report.png, and 9 day'reports 3.png, a great thanks to all who are interested! <3. also made slight changes to repository, to remove bloat the .SLDDRW files are removed since there are also drawings and the sourcefiles present. a bitt overkill i would say.. 17-7-26>>
 <<note from author, made a new release under version 2.2.0. 19-7-26>>
 <<note from author, here is a rough digitalization of Mees Diagrams ''The book of signs''.pdf, this is from personal collection. PEACE PEACE PEACE 24-7-26>>
+<<note from author, added the third 9 day'report.png, and 9 day'reports 4.png. 24-7-26>>
