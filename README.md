@@ -84,6 +84,7 @@ Greek Collatz Soyga Matrix colloured.xlsx
 Greek Collatz Soyga Matrix.xlsx
 Greek Soyga Matrix colloured.xlsx
 Greek Soyga Matrix.xlsx
+Greek Collatz Soyga Matrix Blocks.xlsx
 
 contents part 5 RCM.
 =======================================================================
@@ -167,4 +168,5 @@ Authors notes.
 <<note from author, added the fourth 9 day'report.png, and 9 day'reports 3.png, a great thanks to all who are interested! <3. also made slight changes to repository, to remove bloat the .SLDDRW files are removed since there are also drawings and the sourcefiles present. a bitt overkill i would say.. 17-7-26>>
 <<note from author, made a new release under version 2.2.0. 19-7-26>>
 <<note from author, here is a rough digitalization of Mees Diagrams ''The book of signs''.pdf, this is from personal collection. PEACE PEACE PEACE 24-7-26>>
-<<note from author, added the third 9 day'report.png, and 9 day'reports 4.png. 24-7-26>>
+<<note from author, added the third 9 day'report.png, and 9 day'reports 4.png. 29-7-26>>
+<<note from author, updated the soyga .pdf with a new chapter, also added Greek Collatz Soyga Matrix Blocks.xlsx for people to look deaper into the logica from the new chapters. 30-7-26>>
