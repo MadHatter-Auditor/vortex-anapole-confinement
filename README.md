@@ -169,11 +169,11 @@ Further documents supporting this repository and it's projects
 <details>
   <summary>Appendix: Contents</summary>
 
-1. **[M.A.R.F. The Meta-Academic Response Framework.md](M.A.R.F.%20The%20Meta-Academic%20Response%20Framework.md)**
-2. The-Book-Of-Signs-Vol-i_text.pdf
+1. **[M.A.R.F. The Meta-Academic Response Framework](M.A.R.F.%20The%20Meta-Academic%20Response%20Framework.md)**
+2. **[The-Book-Of-Signs-Vol-i_text](The-Book-Of-Signs-Vol-i_text.pdf)**
 3. **[Authors note 21-6-2026](Authors%20note%2021-6-2026.txt)**
-4. Justin Christofleau - Electroculture (english) - 1927.pdf
-5. Mees Diagrams ''The book of signs''.pdf
+4. **[Justin Christofleau - Electroculture (English) - 1927](Justin%20Christofleau%20-%20Electroculture%20(english)%20-%201927.pdf)**
+5. **[Mees Diagrams "The Book of Signs"](Mees%20Diagrams%20''The%20book%20of%20signs''.pdf)**
 
 </details>
 
