@@ -1,4 +1,6 @@
-Read the PDF file called Base-12 Microcosm.
+Read the PDF file called Base-12 Microcosm since that covers the basics.
+Or look in this readme to a project to your liking.
+The MARF is set up as a referal to elaborate on some technical points.
 
 Contents part 1 Base-12 Microcosm.
 =======================================================================
