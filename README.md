@@ -169,7 +169,7 @@ Further documents supporting this repository and it's projects
 <details>
   <summary>Appendix: Contents</summary>
 
-1. The Meta-Academic Response Framework (MARF)
+1. M.A.R.F. The Meta-Academic Response Framework.md
 2. The-Book-Of-Signs-Vol-i_text.pdf
 3. Authors note 21-6-2026.
 4. Justin Christofleau - Electroculture (english) - 1927.pdf
@@ -224,6 +224,6 @@ Notes from the author that document changes and additions.
 17. (19-7-26) Made a new release under version 2.2.0.
 18. (24-7-26) Here is a rough digitalization of Mees Diagrams ''The book of signs''.pdf, this is from personal collection. PEACE PEACE PEACE!
 19. (29-7-26) Added the third 9 day'report.png, and 9 day'reports 4.png.
-20. (30-7-26) Updated the soyga.pdf with a new chapter, also added Greek Collatz Soyga Matrix Blocks.xlsx for people to look deaper into the logica from the new chapters, later reuploaded soyga.pdf due to an expansions in the last chapter. PS special mention to (https://github.com/cedendahlkim) for the first star on this repository! It means a lott and for people discovering this repository i would recomment to have a look at his work, also changed name of material roadmap into Wu Xing Hardware Architecture in part 2, and lastly did a heavy update to the readme with the additions of descriptions.
+20. (30-7-26) Updated the soyga.pdf with a new chapter, also added Greek Collatz Soyga Matrix Blocks.xlsx for people to look deaper into the logica from the new chapters, later reuploaded soyga.pdf due to an expansions in the last chapter. PS special mention to (https://github.com/cedendahlkim) for the first star on this repository! It means a lott and for people discovering this repository i would recomment to have a look at his work, also changed name of material roadmap into Wu Xing Hardware Architecture in part 2, and lastly did a heavy update to the readme with the additions of descriptions and lastly i updated the MARF and renamed it to: M.A.R.F. The Meta-Academic Response Framework.
 
 </details>
