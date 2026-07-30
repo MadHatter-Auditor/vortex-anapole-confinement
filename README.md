@@ -15,7 +15,7 @@ A foundational duodecimal (Base-12) spatial framework reconciling Vortex Based M
 
 1. Akhenaten grid.png
 2. Alchemical alpha omega torus basis.png
-3.Alchemical alpha omega torus.png
+3. Alchemical alpha omega torus.png
 4. Base-12 Klock system α & ω.png
 5. Base-12 Microcosm.pdf
 6. Bifilar Conical Caduceus Coil.jpg
@@ -169,9 +169,9 @@ Further documents supporting this repository and it's projects
 <details>
   <summary>Appendix: Contents</summary>
 
-1.  **[M.A.R.F. The Meta-Academic Response Framework.md](M.A.R.F.%20The%20Meta-Academic%20Response%20Framework.md)**
+1. **[M.A.R.F. The Meta-Academic Response Framework.md](M.A.R.F.%20The%20Meta-Academic%20Response%20Framework.md)**
 2. The-Book-Of-Signs-Vol-i_text.pdf
-3. Authors note 21-6-2026.
+3. **[Authors note 21-6-2026](Authors%20note%2021-6-2026.txt)**
 4. Justin Christofleau - Electroculture (english) - 1927.pdf
 5. Mees Diagrams ''The book of signs''.pdf
 
