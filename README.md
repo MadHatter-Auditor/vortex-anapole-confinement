@@ -51,6 +51,8 @@ Part 1 Base-12 Microcosm: Contents
 33. Zodiac coil.png
 34. graph Nordic runes on zodiac.jpg
 
+</details>
+
 Part 2 Wu Xing Hardware Architecture: Description 
 =======================================================================
 
