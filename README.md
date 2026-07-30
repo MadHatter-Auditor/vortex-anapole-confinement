@@ -40,10 +40,10 @@ Trailokya coil.png
 Zodiac coil.png
 graph Nordic runes on zodiac.jpg
 
-contents part 2 Material Roadmap.
+contents part 2 Wu Xing Hardware Architecture
 =======================================================================
 
-Material Roadmap.pdf
+Wu Xing Hardware Architecture.pdf
 RC Simple coil.SLDPRT
 RC Simple coil.jpg
 RC Split Ring Resonator Drawing.SLDPRT
@@ -171,4 +171,4 @@ Authors notes.
 <<note from author, made a new release under version 2.2.0. 19-7-26>>
 <<note from author, here is a rough digitalization of Mees Diagrams ''The book of signs''.pdf, this is from personal collection. PEACE PEACE PEACE 24-7-26>>
 <<note from author, added the third 9 day'report.png, and 9 day'reports 4.png. 29-7-26>>
-<<note from author, updated the soyga.pdf with a new chapter, also added Greek Collatz Soyga Matrix Blocks.xlsx for people to look deaper into the logica from the new chapters, later reuploaded soyga.pdf due to an expansions in the last chapter. PS special mention to (https://github.com/cedendahlkim) for the first star on this repository! It means a lott and for people discovering this repository i would recomment to have a look at his work. 30-7-26>>
+<<note from author, updated the soyga.pdf with a new chapter, also added Greek Collatz Soyga Matrix Blocks.xlsx for people to look deaper into the logica from the new chapters, later reuploaded soyga.pdf due to an expansions in the last chapter. PS special mention to (https://github.com/cedendahlkim) for the first star on this repository! It means a lott and for people discovering this repository i would recomment to have a look at his work, also changed name of material roadmap into Wu Xing Hardware Architecture in part 2 30-7-26>>
