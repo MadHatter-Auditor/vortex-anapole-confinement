@@ -10,11 +10,10 @@ Part 1 Base-12 Microcosm: Description
 
 A foundational duodecimal (Base-12) spatial framework reconciling Vortex Based Mathematics, ancient sacred geometries (Shri Yantra, Sigillum Dei), and runic matrices into verifier-ready electrodynamic field-cancellation protocols."
 
-Part 1 Base-12 Microcosm: Contents
+<details>
+  <summary>Part 1 Base-12 Microcosm: Contents</summary>
 =======================================================================
 
-<details>
-  <summary>Contents</summary>
 
 1. Akhenaten grid.png
 2. Alchemical alpha omega torus basis.png
