@@ -214,9 +214,9 @@ Notes from the author that document changes and additions.
 7. (11-6-26) Made a new release under version 2.0.0
 8. (17-6-26) Buisy with something new, expect an update with some findings somewhere in the upcoming day's.
 9. (18-6-26) I got approved to post on hackaday so the project is online there (https://hackaday.io/project/205951-vortex-anapole-confinement), also added zodiac coil.png wich i forgot to add.
-10. (19-6-2026) Added part 4 soyga, including xlsx files for transparancy.
+10. (19-6-26) Added part 4 soyga, including xlsx files for transparancy.
 11. (21-6-26) Made a new release under version 2.1.0, added the second 9 day'reports.png, 9 day'reports.png, 21-6-2026 Authors note.txt and updated readme accordingly VIVAT SOL ET IGNIS SACER!
-12. (3-7-2026) Added part 5 RCM.pdf, electroculture apparatus blueprints, Justin Christofleau - Electroculture (english) - 1927.pdf to appendix, also adding a new chapter to the soyga, an update to that is incoming.
+12. (3-7-26) Added part 5 RCM.pdf, electroculture apparatus blueprints, Justin Christofleau - Electroculture (english) - 1927.pdf to appendix, also adding a new chapter to the soyga, an update to that is incoming.
 13. (4-7-26) Added the third 9 day'report.png, 9 day'reports 2.png and reworked the readme.
 14. (15-7-26) Updated the soyga, now with the Collatz matrix included, made the license a dual license and reworked readme.
 15. (16-7-26) Updated the licenses to AGPL-3.0-only and made shure i put it down as correctly as i could. also initiated contact with an local university in order to digitalize my personal collection of the works of G.H.Mees, this is is a personal effort to combat lost media.
