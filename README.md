@@ -12,8 +12,6 @@ A foundational duodecimal (Base-12) spatial framework reconciling Vortex Based M
 
 <details>
   <summary>Part 1 Base-12 Microcosm: Contents</summary>
-=======================================================================
-
 
 1. Akhenaten grid.png
 2. Alchemical alpha omega torus basis.png
