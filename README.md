@@ -3,7 +3,7 @@ Intro
 
 Read the PDF file called **[Base-12 Microcosm.pdf](Base-12%20Microcosm.pdf)** since that covers the basics.
 Or look in this readme to a project to your liking.
-The **[M.A.R.F. The Meta-Academic Response Framework.md](M.A.R.F.%20The%20Meta-Academic%20Response%20Framework.md)** is set up as a referal to elaborate on some technical points.
+The **[M.A.R.F.](M.A.R.F.%20The%20Meta-Academic%20Response%20Framework.md)** is set up as a referal to elaborate on some technical points.
 
 Part 1 Base-12 Microcosm: Description 
 =======================================================================
