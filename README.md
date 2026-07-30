@@ -51,7 +51,7 @@ A foundational duodecimal (Base-12) spatial framework reconciling Vortex Based M
 
 </details>
 
-**Part 2 Wu Xing Hardware Architecture: Description 
+Part 2 Wu Xing Hardware Architecture: Description 
 =======================================================================
 
 A material-to-signal roadmap mapping the electrical resistivity of elements into a duodecimal matrix, bridging hermetic metal traditions with Leibniz’s binary I Ching logic.
