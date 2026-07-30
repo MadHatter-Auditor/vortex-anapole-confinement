@@ -51,7 +51,7 @@ A foundational duodecimal (Base-12) spatial framework reconciling Vortex Based M
 
 </details>
 
-Part 2 Wu Xing Hardware Architecture: Description 
+**Part 2 Wu Xing Hardware Architecture: Description 
 =======================================================================
 
 A material-to-signal roadmap mapping the electrical resistivity of elements into a duodecimal matrix, bridging hermetic metal traditions with Leibniz’s binary I Ching logic.
@@ -207,7 +207,7 @@ Notes from the author that document changes and additions.
 <details>
   <summary>Authors notes: Content</summary>
 
-1. (1-6-26) Banned on reddit so please share, also Added RC simple coil, RC split ring resonator, RC thin wire raster drawing and added topics.
+1. (1-6-26) Banned on reddit so please share, also Added [RC simple coil, RC split ring resonator, RC thin wire raster drawing](#part-2-wu-xing-hardware-architecture-description) and added topics.
 2. (2-6-26) Added alchemic correlation in resistance trough RC.pdf, added multiple drawings and cleaned up some mess see commits, did apeal two times but still shadowbanned on reddit, no responce about it either from mods, still no idea what happend further added SOH fractals, it did improve but they are still a bitt faulty, one should not expect a perfect SLDPRT.. on the macro scale it looks fine but it is incorrect on the micro scale. need to rework or redesign that later but improvements or fixes are welcome.>>
 3. (3-6-26) Added the book of signs.pdf this is all i could find because most if it is lost media, i cannot scan in my personal collection at this moment so this must suffice for you all.
 4. (4-6-26) Added The Meta-Academic Response Framework (MARF), updated the Material roadmap with the adding of a new section in the material roadmap about the Leibniz' Binary System and Shao Yong's "Yijing and another new section in the material roadmap called: The Wu Xing binary system, defined using π and reworked README to provide a more clear overvieuw.
