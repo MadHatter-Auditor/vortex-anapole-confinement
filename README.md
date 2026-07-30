@@ -72,7 +72,7 @@ Re-engineering a scientifically flawed 2015 variable reluctance project into a 1
 Part 3 APM: Contents
 =======================================================================
 
-1APM.pdf
+1. APM.pdf
 2. QEG 4FASE CODING.png
 3. QEC P1 MICA PLATE.SLDPRT
 4. QEG P1 PIN IN ROTOR.SLDPRT
