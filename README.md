@@ -157,7 +157,7 @@ Authors notes.
 <<note from author, deleted my reddit profile because of the ban and no responce even while being polite, i do not waste my time with them so i deleted my info since it has no purpose besides being a reminder and added the first 9 day report. ALEA IACTA EST! 8-6-26>>
 <<note from author, made a new release under version 2.0.0 11-6-26>>
 <<note from author, Buisy with something new, expect an update with some findings somewhere in the upcoming day's 17-6-26>>
-<<note from author, i got approved to post on hackaday so the project is online there, also added zodiac coil.png wich i forgot to add. 18-6-26>>
+<<note from author, i got approved to post on hackaday so the project is online there (https://hackaday.io/project/205951-vortex-anapole-confinement), also added zodiac coil.png wich i forgot to add. 18-6-26>>
 <<note from author, added part 4 soyga, including xlsx files for transparancy. 19-6-2026>>
 <<note from author, made a new release under version 2.1.0, added the second 9 day'reports.png, 9 day'reports.png, 21-6-2026 Authors note.txt and updated readme accordingly VIVAT SOL ET IGNIS SACER! 21-6-26>>
 <<note from author, added part 5 RCM.pdf, electroculture apparatus blueprints, Justin Christofleau - Electroculture (english) - 1927.pdf to appendix 30-6-2026>>
@@ -169,4 +169,4 @@ Authors notes.
 <<note from author, made a new release under version 2.2.0. 19-7-26>>
 <<note from author, here is a rough digitalization of Mees Diagrams ''The book of signs''.pdf, this is from personal collection. PEACE PEACE PEACE 24-7-26>>
 <<note from author, added the third 9 day'report.png, and 9 day'reports 4.png. 29-7-26>>
-<<note from author, updated the soyga.pdf with a new chapter, also added Greek Collatz Soyga Matrix Blocks.xlsx for people to look deaper into the logica from the new chapters, later reuploaded soyga.pdf due to an expansions in the last chapter. PS special mention to https://github.com/cedendahlkim for the first star on this repository! It means a lott and for people discovering this repository i would recomment to have a look at his work. 30-7-26>>
+<<note from author, updated the soyga.pdf with a new chapter, also added Greek Collatz Soyga Matrix Blocks.xlsx for people to look deaper into the logica from the new chapters, later reuploaded soyga.pdf due to an expansions in the last chapter. PS special mention to (https://github.com/cedendahlkim) for the first star on this repository! It means a lott and for people discovering this repository i would recomment to have a look at his work. 30-7-26>>
