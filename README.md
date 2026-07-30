@@ -169,6 +169,7 @@ Further documents supporting this repository and it's projects
 <details>
   <summary>Appendix: Contents</summary>
 
+1. * **[M.A.R.F. The Meta-Academic Response Framework.md](M.A.R.F.%20The%20Meta-Academic%20Response%20Framework.md)**
 1. M.A.R.F. The Meta-Academic Response Framework.md
 2. The-Book-Of-Signs-Vol-i_text.pdf
 3. Authors note 21-6-2026.
