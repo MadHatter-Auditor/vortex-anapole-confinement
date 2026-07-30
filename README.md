@@ -169,4 +169,4 @@ Authors notes.
 <<note from author, made a new release under version 2.2.0. 19-7-26>>
 <<note from author, here is a rough digitalization of Mees Diagrams ''The book of signs''.pdf, this is from personal collection. PEACE PEACE PEACE 24-7-26>>
 <<note from author, added the third 9 day'report.png, and 9 day'reports 4.png. 29-7-26>>
-<<note from author, updated the soyga .pdf with a new chapter, also added Greek Collatz Soyga Matrix Blocks.xlsx for people to look deaper into the logica from the new chapters. 30-7-26>>
+<<note from author, updated the soyga.pdf with a new chapter, also added Greek Collatz Soyga Matrix Blocks.xlsx for people to look deaper into the logica from the new chapters, later reuploaded soyga.pdf due to an expansions in the last chapter. 30-7-26>>
