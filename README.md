@@ -13,40 +13,40 @@ A foundational duodecimal (Base-12) spatial framework reconciling Vortex Based M
 Part 1 Base-12 Microcosm: Contents
 =======================================================================
 
-Akhenaten grid.png
-Alchemical alpha omega torus basis.png
-Alchemical alpha omega torus.png
-Base-12 Klock system α & ω.png
-Base-12 Microcosm.pdf
-Bifilar Conical Caduceus Coil.jpg
-Cadecus.SLDPRT
-Chessboard Base-12.png
-Dodecagram.png 
-Handmap.jpg
-Hiemona Coil Measurements radius plus paths.jpg
-Hiemona Coil Paths.jpg
-Hiemona Coil.SLDPRT
-Hiemona Coil.jpg
-Hieroglyphica monas.SLDPRT
-Module-12 Assembly.SLDASM
-Module-12 Assembly.png
-Module-12 Coil main.SLDPRT
-Module-12 Coil sub.SLDPRT
-SOH Antenna fractals.SLDPRT
-SOH Antenna p2 base.SLDPRT
-SOH Tower.png
-SOH fractals collours.png
-Seal of Hermes measurements.jpg
-Seal of Hermes symbol.SLDPRT
-Sri Yantra Base Drawing.SLDDRW
-Sri yantra Coil half.SLDPRT
-Sri yantra Coil.SLDPRT
-Sri Yantra measurements radius plus paths.jpg
-Sri Yantra measurements radius.jpg
-Trailokya coil.SLDPRT
-Trailokya coil.png
-Zodiac coil.png
-graph Nordic runes on zodiac.jpg
+1. Akhenaten grid.png
+2. Alchemical alpha omega torus basis.png
+3.Alchemical alpha omega torus.png
+4. Base-12 Klock system α & ω.png
+5. Base-12 Microcosm.pdf
+6. Bifilar Conical Caduceus Coil.jpg
+7. Cadecus.SLDPRT
+8. Chessboard Base-12.png
+9. Dodecagram.png 
+10. Handmap.jpg
+11. Hiemona Coil Measurements radius plus paths.jpg
+12. Hiemona Coil Paths.jpg
+13. Hiemona Coil.SLDPRT
+14. Hiemona Coil.jpg
+15. Hieroglyphica monas.SLDPRT
+16. Module-12 Assembly.SLDASM
+17. Module-12 Assembly.png
+18. Module-12 Coil main.SLDPRT
+19. Module-12 Coil sub.SLDPRT
+20. SOH Antenna fractals.SLDPRT
+21. SOH Antenna p2 base.SLDPRT
+22. SOH Tower.png
+23. SOH fractals collours.png
+24. Seal of Hermes measurements.jpg
+25. Seal of Hermes symbol.SLDPRT
+26. Sri Yantra Base Drawing.SLDDRW
+27. Sri yantra Coil half.SLDPRT
+28. Sri yantra Coil.SLDPRT
+29. Sri Yantra measurements radius plus paths.jpg
+30. Sri Yantra measurements radius.jpg
+31. Trailokya coil.SLDPRT
+32. Trailokya coil.png
+33. Zodiac coil.png
+34. graph Nordic runes on zodiac.jpg
 
 Part 2 Wu Xing Hardware Architecture: Description 
 =======================================================================
@@ -56,13 +56,13 @@ A material-to-signal roadmap mapping the electrical resistivity of elements into
 Part 2 Wu Xing Hardware Architecture: Contents
 =======================================================================
 
-Wu Xing Hardware Architecture.pdf
-RC Simple coil.SLDPRT
-RC Simple coil.jpg
-RC Split Ring Resonator Drawing.SLDPRT
-RC Split Ring Resonator Drawing.png
-RC Thin Wire Raster.SLDPRT
-RC Thin Wire Raster.png
+1. Wu Xing Hardware Architecture.pdf
+2. RC Simple coil.SLDPRT
+3. RC Simple coil.jpg
+4. RC Split Ring Resonator Drawing.SLDPRT
+5. RC Split Ring Resonator Drawing.png
+6. RC Thin Wire Raster.SLDPRT
+7. RC Thin Wire Raster.png
 
 Part 3 APM: Description 
 =======================================================================
@@ -72,29 +72,29 @@ Re-engineering a scientifically flawed 2015 variable reluctance project into a 1
 Part 3 APM: Contents
 =======================================================================
 
-APM.pdf
-QEG 4FASE CODING.png
-QEC P1 MICA PLATE.SLDPRT
-QEG P1 PIN IN ROTOR.SLDPRT
-QEG P1 PIN IN STATOR.SLDPRT
-QEG P1 PVC PART.SLDPRT
-QEG P1 ROTOR END.SLDPRT
-QEG P1 ROTOR.SLDPRT
-QEG P1 STATOR & ROTOR.SLDASM
-QEG P1 STATOR.SLDPRT
-QEG P2 BACKPLATE.SLDPRT
-QEG P2 BOLT.SLDPRT
-QEG P2 BOTTOMPLATE.SLDPRT
-QEG P2 FRONTPLATE.SLDPRT
-QEG P2 ROTOR PIN P1.SLDPRT
-QEG P2 ROTOR PIN P2.SLDPRT
-QEG ROTOR PARTS ASSEMBLY 1.png
-QEG ROTOR PARTS ASSEMBLY 2.png
-QEG ROTOR PARTS DRAWING.SLDPRT
-QEG ROTOR PARTS DRAWING.png
-QEG ROTOR PARTS REWORKED.SLDASM
-QEG STATOR PARTS DRAWING.png
-QEG STATOR PARTS REWORKED.SLDASM
+1APM.pdf
+2. QEG 4FASE CODING.png
+3. QEC P1 MICA PLATE.SLDPRT
+4. QEG P1 PIN IN ROTOR.SLDPRT
+5. QEG P1 PIN IN STATOR.SLDPRT
+6. QEG P1 PVC PART.SLDPRT
+7. QEG P1 ROTOR END.SLDPRT
+8. QEG P1 ROTOR.SLDPRT
+9. QEG P1 STATOR & ROTOR.SLDASM
+10. QEG P1 STATOR.SLDPRT
+11. QEG P2 BACKPLATE.SLDPRT
+12. QEG P2 BOLT.SLDPRT
+13. QEG P2 BOTTOMPLATE.SLDPRT
+14. QEG P2 FRONTPLATE.SLDPRT
+15. QEG P2 ROTOR PIN P1.SLDPRT
+16. QEG P2 ROTOR PIN P2.SLDPRT
+17. QEG ROTOR PARTS ASSEMBLY 1.png
+18. QEG ROTOR PARTS ASSEMBLY 2.png
+19. QEG ROTOR PARTS DRAWING.SLDPRT
+20. QEG ROTOR PARTS DRAWING.png
+21. QEG ROTOR PARTS REWORKED.SLDASM
+22. QEG STATOR PARTS DRAWING.png
+23. QEG STATOR PARTS REWORKED.SLDASM
 
 Part 4 Soyga: Description 
 =======================================================================
@@ -104,12 +104,12 @@ Mapping the mathematical rhythm of the Collatz Conjecture through a modulo-24 Gr
 Part 4 Soyga: Contents
 =======================================================================
 
-Soyga.pdf
-Greek Collatz Soyga Matrix colloured.xlsx
-Greek Collatz Soyga Matrix.xlsx
-Greek Soyga Matrix colloured.xlsx
-Greek Soyga Matrix.xlsx
-Greek Collatz Soyga Matrix Blocks.xlsx
+1. Soyga.pdf
+2. Greek Collatz Soyga Matrix colloured.xlsx
+3. Greek Collatz Soyga Matrix.xlsx
+4. Greek Soyga Matrix colloured.xlsx
+5. Greek Soyga Matrix.xlsx
+6. Greek Collatz Soyga Matrix Blocks.xlsx
 
 Part 5 RCM: Description 
 =======================================================================
@@ -118,38 +118,38 @@ Revising a 1927 atmospheric energy patent into an open-source empirical testing 
 Part 5 RCM: Contents
 =======================================================================
 
-RCM.pdf
-Allen component.SLDPRT
-Base parts 1.png 
-Base parts 2.png
-Base parts 3.png
-Base parts and Galvanic Cell.SLDASM
-Complete RCM.png
-Complete.SLDASM
-Galvanic Cell and remaining base.pdf
-Galvanic Cell.SLDASM
-antenna and TEP.SLDASM
-antenna spikes.SLDPRT
-antenna.SLDPRT
-base Parts 2.SLDASM
-base Parts 3.SLDASM
-base Parts Antenna.SLDASM
-base Parts P1.SLDDRW
-base Parts.SLDASM
-base for antenna.SLDPRT
-base front.SLDPRT
-base sides.SLDPRT
-base.SLDPRT
-bolt 2.SLDPRT
-bolt backside.SLDPRT
-copper.SLDPRT
-copper 2.SLDPRT
-pin for rod through base.SLDPRT
-solding spots.SLDPRT
-steel rod trough base.SLDPRT
-tep part.SLDASM
-zink.SLDPRT
-zink 2.SLDPRT
+1. RCM.pdf
+2. Allen component.SLDPRT
+3. Base parts 1.png 
+4. Base parts 2.png
+5. Base parts 3.png
+6. Base parts and Galvanic Cell.SLDASM
+7. Complete RCM.png
+8. Complete.SLDASM
+9. Galvanic Cell and remaining base.pdf
+10. Galvanic Cell.SLDASM
+11. antenna and TEP.SLDASM
+12. antenna spikes.SLDPRT
+13. antenna.SLDPRT
+14. base Parts 2.SLDASM
+15. base Parts 3.SLDASM
+16. base Parts Antenna.SLDASM
+17. base Parts P1.SLDDRW
+18. base Parts.SLDASM
+19. base for antenna.SLDPRT
+20. base front.SLDPRT
+21. base sides.SLDPRT
+22. base.SLDPRT
+23. bolt 2.SLDPRT
+24. bolt backside.SLDPRT
+25. copper.SLDPRT
+26. copper 2.SLDPRT
+27. pin for rod through base.SLDPRT
+28. solding spots.SLDPRT
+29. steel rod trough base.SLDPRT
+30. tep part.SLDASM
+31. zink.SLDPRT
+32. zink 2.SLDPRT
 
 Appendix: Description 
 =======================================================================
@@ -159,11 +159,11 @@ Further documents supporting this repository and it's projects
 Appendix: Contents
 =======================================================================
 
-The Meta-Academic Response Framework (MARF)
-The-Book-Of-Signs-Vol-i_text.pdf
-Authors note 21-6-2026.
-Justin Christofleau - Electroculture (english) - 1927.pdf
-Mees Diagrams ''The book of signs''.pdf
+1. The Meta-Academic Response Framework (MARF)
+2. The-Book-Of-Signs-Vol-i_text.pdf
+3. Authors note 21-6-2026.
+4. Justin Christofleau - Electroculture (english) - 1927.pdf
+5. Mees Diagrams ''The book of signs''.pdf
 
 REPORT: Description 
 =======================================================================
@@ -173,15 +173,15 @@ Reporting the amount of traffic and clones of this repository
 REPORT: Contents
 =======================================================================
 
-first 9 day'report.png
-second 9 day'report.png
-third 9 day'report.png
-fourth 9 day'report.png
-fifth 9 day'report.png
-9 day'reports.png
-9 day'reports 2.png
-9 day'reports 3.png
-9 day'reports 4.png
+1. first 9 day'report.png
+2. second 9 day'report.png
+3. third 9 day'report.png
+4. fourth 9 day'report.png
+5. fifth 9 day'report.png
+6. 9 day'reports.png
+7. 9 day'reports 2.png
+8. 9 day'reports 3.png
+9. 9 day'reports 4.png
 
 Authors notes: Description 
 =======================================================================
