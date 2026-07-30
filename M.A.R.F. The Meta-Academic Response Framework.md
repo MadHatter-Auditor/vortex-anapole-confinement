@@ -1,5 +1,6 @@
 M.A.R.F. The Meta-Academic Response Framework.
 =======================================================================
+
 1. In responce to a lack of peer revieuws
 <details>
   <summary>Expand</summary>
