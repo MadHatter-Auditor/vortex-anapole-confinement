@@ -237,7 +237,7 @@ Releases
 a short overvieuw of all of the releases so far.
 
 <details>
-  <summary>Authors notes: Content</summary>
+  <summary>versions</summary>
   
 1. v1.0.0 (https://github.com/MadHatter-Auditor/vortex-anapole-confinement/releases/tag/v1.0.0)
 2. v2.0.0 (https://github.com/MadHatter-Auditor/vortex-anapole-confinement/releases/tag/v2.0.0)
