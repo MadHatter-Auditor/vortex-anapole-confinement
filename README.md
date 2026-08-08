@@ -229,6 +229,7 @@ Notes from the author that document changes and additions.
 20. (29-7-26) Added the **[5th 9 day' report.png](5th%209%20day%27%20report.png)**, and **[9 day'reports 4.png](9%20day%27reports%204.png)**.
 21. (30-7-26) Updated the [soyga](#part-4-soyga-description) with a new chapter, also added **[Greek Collatz Soyga Matrix Blocks.xlsx](Greek%20Collatz%20Soyga%20Matrix%20Blocks.xlsx)** for people to look deaper into the logica from the new chapters, later reuploaded soyga.pdf due to an expansions in the last chapter. PS special mention to (missing link) for the first star on this repository! It means a lott and for people discovering this repository i would recomment to have a look at his work, also changed name of (formerly) material roadmap into **[Wu Xing Hardware Architecture.pdf](Wu%20Xing%20Hardware%20Architecture.pdf)** in part 2, also did a heavy update to the readme with the additions of descriptions and lastly i updated the **[M.A.R.F. The Meta-Academic Response Framework.md](M.A.R.F.%20The%20Meta-Academic%20Response%20Framework.md)**
 22. (31-7-26) Removed the special mention and referral from the README due to an update in repository stars, the referal link also gave a 404. fruther the release ov v3.0.0 (https://github.com/MadHatter-Auditor/vortex-anapole-confinement/releases/tag/v3.0.0)
+23. (8-8-26) Reuploaded the last files to clean up the repository, now besides the name you can see if the file is part of Appendix,REPORT,part 1,2,3,4 or 5.
 
 </details>
 
