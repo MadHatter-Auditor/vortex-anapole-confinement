@@ -176,7 +176,8 @@ Further documents supporting this repository and it's projects
 2. **[The-Book-Of-Signs-Vol-i_text.pdf](The-Book-Of-Signs-Vol-i_text.pdf)**
 3. **[Authors note 21-6-2026.md](Authors%20note%2021-6-2026.txt)**
 4. **[Justin Christofleau - Electroculture (English) - 1927.pdf](Justin%20Christofleau%20-%20Electroculture%20(english)%20-%201927.pdf)**
-5. **[Mees Diagrams "The Book of Signs".pdf](Mees%20Diagrams%20''The%20book%20of%20signs''.pdf)**
+5. **[The Secret Life of Plants.pdf](The-Secret-Life-of-Plants.pdf)**
+6. **[Mees Diagrams "The Book of Signs".pdf](Mees%20Diagrams%20''The%20book%20of%20signs''.pdf)**
 
 </details>
 
@@ -235,6 +236,7 @@ Notes from the author that document changes and additions.
 23. (8-8-26) Reuploaded the last files to clean up the repository, now besides the name you can see if the file is part of Appendix,REPORT,part 1,2,3,4 or 5.
 24. (9-8-26) Added a link to discussions (https://github.com/MadHatter-Auditor/vortex-anapole-confinement/discussions) at the top of the readme.
 25. (11-8-26) Added the **[6th 9 day' report.png](6th%209%20day%27%20report.png)**, and **[9 day'reports 5.png](9%20day%27reports%205.png)**.
+26. (20-8-26) Added a chapter and a table of contents in the **[RCM.pdf](RCM.pdf)**. Also uploaded **[The Secret Life of Plants.pdf](The-Secret-Life-of-Plants.pdf)** in the appendix as a source.
 
 </details>
 
