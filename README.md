@@ -236,7 +236,7 @@ Notes from the author that document changes and additions.
 23. (8-8-26) Reuploaded the last files to clean up the repository, now besides the name you can see if the file is part of Appendix,REPORT,part 1,2,3,4 or 5.
 24. (9-8-26) Added a link to discussions (https://github.com/MadHatter-Auditor/vortex-anapole-confinement/discussions) at the top of the readme.
 25. (11-8-26) Added the **[6th 9 day' report.png](6th%209%20day%27%20report.png)**, and **[9 day'reports 5.png](9%20day%27reports%205.png)**.
-26. (20-8-26) Added a chapter and a table of contents in the **[RCM.pdf](RCM.pdf)**. Also uploaded **[The Secret Life of Plants.pdf](The-Secret-Life-of-Plants.pdf)** in the appendix as a source.
+26. (20-8-26) Added a chapter and a table of contents in the **[RCM.pdf](RCM.pdf)**. Also uploaded **[The Secret Life of Plants.pdf](The%20Secret%20Life%20of%20Plants.pdf)** in the appendix as a source.
 
 </details>
 
