@@ -189,17 +189,8 @@ Reporting the amount of traffic and clones of this repository
 <details>
   <summary>REPORT: Contents</summary>
 
-1. **[1st 9 day' report.png](1st%209%20day%27%20report.png)**
-2. **[2nd 9 day' report.png](2nd%209%20day%27%20report.png)**
-3. **[3rd 9 day' report.png](3rd%209%20day%27%20report.png)**
-4. **[4th 9 day' report.png](4th%209%20day%27%20report.png)**
-5. **[5th 9 day' report.png](5th%209%20day%27%20report.png)**
-6. **[6th 9 day' report.png](6th%209%20day%27%20report.png)**
-7. **[9 day'reports.png](9%20day%27reports.png)**
-8. **[9 day'reports 2.png](9%20day%27reports%202.png)**
-9. **[9 day'reports 3.png](9%20day%27reports%203.png)**
-10. **[9 day'reports 4.png](9%20day%27reports%204.png)**
-11. **[9 day'reports 5.png](9%20day%27reports%205.png)**
+1. **[Report.pdf](Report.pdf)**
+
 
 </details>
 
@@ -237,6 +228,7 @@ Notes from the author that document changes and additions.
 24. (9-8-26) Added a link to discussions (https://github.com/MadHatter-Auditor/vortex-anapole-confinement/discussions) at the top of the readme.
 25. (11-8-26) Added the **[6th 9 day' report.png](6th%209%20day%27%20report.png)**, and **[9 day'reports 5.png](9%20day%27reports%205.png)**.
 26. (20-8-26) Added a chapter and a table of contents in the **[RCM.pdf](RCM.pdf)**. Also uploaded **[The Secret Life of Plants.pdf](The%20Secret%20Life%20of%20Plants.pdf)** in the appendix as a source.
+27. (21-8-26) Deleted all the loose reports and uploaded all of them in a pdf, now with per day writen down. This to compile the data and to make the overvieuw easy. 
 
 </details>
 
