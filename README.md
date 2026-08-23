@@ -176,7 +176,7 @@ Further documents supporting this repository and it's projects
 2. **[The-Book-Of-Signs-Vol-i_text.pdf](The-Book-Of-Signs-Vol-i_text.pdf)**
 3. **[Authors note 21-6-2026.md](Authors%20note%2021-6-2026.txt)**
 4. **[Justin Christofleau - Electroculture (English) - 1927.pdf](Justin%20Christofleau%20-%20Electroculture%20(english)%20-%201927.pdf)**
-5. **[The Secret Life of Plants.pdf](The%20Secret%20Life%20of%20Plants.pdf)**
+5. (https://archive.org/details/secretlifeofplan00tomp/page/n3/mode/2up)
 6. **[Mees Diagrams "The Book of Signs".pdf](Mees%20Diagrams%20''The%20book%20of%20signs''.pdf)**
 
 </details>
