@@ -230,7 +230,7 @@ Notes from the author that document changes and additions.
 26. (20-8-26) Added a chapter and a table of contents in the **[RCM.pdf](RCM.pdf)**. Also uploaded The Secret Life of Plants.pdf in the appendix as a source.
 27. (21-8-26) Deleted all the loose reports and uploaded all of them in a pdf, now with per day writen down. This to compile the data and to make the overvieuw easy. **[Report.pdf](Report.pdf)** Also reuploaded **[Soyga.pdf](Soyga.pdf)**,**[Greek Collatz Soyga Matrix colloured.xlsx](Greek%20Collatz%20Soyga%20Matrix%20colloured.xlsx)** and **[Greek Collatz Soyga Matrix.xlsx](Greek%20Collatz%20Soyga%20Matrix.xlsx)** since i fixed a mistake on U-12. ((A=w=1)+(A=𝑓(W)=4)=4+1=5=E and not B)
 28. (23-8-26) Reworked and fixed some spelling mistakes (the ones i saw at least..) in the readme and i deleted the pdf of ''the secret life of plants'' and replaced it with an internet archive link (https://archive.org/details/secretlifeofplan00tomp/page/n3/mode/2up). this is because i found out that it is not yet in the public domain and could be warranted for a DMCA takedown by the publishers. Personally i would recommend buying the book but i refer to internet archive simply as a neccesity. Better not to piss off ''HarperCollins'' so hereby my formal apology and rectification.
-29. (24-8-26) Updating and heavely reworking part two and possibly renaming it yet again in the future or either splitting it up due to new findings. Also uploaded the new report and reworked the links in the readme.
+29. (24-8-26) Updating and heavely reworking part two and possibly renaming it yet again in the future or either splitting it up due to new findings. Also uploaded the new **[Report.pdf](Report.pdf)** and reworked the links in the readme.
 
 </details>
 
