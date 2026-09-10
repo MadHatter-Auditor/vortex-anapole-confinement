@@ -55,18 +55,13 @@ A foundational duodecimal (Base-12) spatial framework reconciling Vortex Based M
 Part 2 Wu Xing Hardware Architecture: Description 
 =======================================================================
 
-A material-to-signal roadmap mapping the electrical resistivity of elements into a duodecimal matrix, bridging hermetic metal traditions with Leibniz’s binary I Ching logic.
+A hardware-native 6-bit instruction set mapping atomic geometry and resistivity into a multi-phase duodecimal matrix by embedding five phase structural qualities directly into a 6-bit binary signal, driven by a hardware mapped duodecimal matrix.
 
 <details>
   <summary>Part 2 Wu Xing Hardware Architecture: Contents</summary>
 
 1. **[Wu Xing Hardware Architecture.pdf](Wu%20Xing%20Hardware%20Architecture.pdf)**
-2. **[RC Simple coil.SLDPRT](RC%20Simple%20coil.SLDPRT)**
-3. **[RC Simple coil.jpg](RC%20Simple%20coil.jpg)**
-4. **[RC Split Ring Resonator Drawing.SLDPRT](RC%20Split%20Ring%20Resonator%20Drawing.SLDPRT)**
-5. **[RC Split Ring Resonator Drawing.png](RC%20Split%20Ring%20Resonator%20Drawing.png)**
-6. **[RC Thin Wire Raster.SLDPRT](RC%20Thin%20Wire%20Raster.SLDPRT)**
-7. **[RC Thin Wire Raster.png](RC%20Thin%20Wire%20Raster.png)**
+2. <<add files and links...>>
 
 </details>
 
@@ -178,6 +173,12 @@ Further documents supporting this repository and it's projects
 4. **[Justin Christofleau - Electroculture (English) - 1927.pdf](Justin%20Christofleau%20-%20Electroculture%20(english)%20-%201927.pdf)**
 5. ''the secret life of plants referral'' (https://archive.org/details/secretlifeofplan00tomp/page/n3/mode/2up)
 6. **[Mees Diagrams "The Book of Signs".pdf](Mees%20Diagrams%20''The%20book%20of%20signs''.pdf)**
+7. **[RC Simple coil.SLDPRT](RC%20Simple%20coil.SLDPRT)**
+8. **[RC Simple coil.jpg](RC%20Simple%20coil.jpg)**
+9. **[RC Split Ring Resonator Drawing.SLDPRT](RC%20Split%20Ring%20Resonator%20Drawing.SLDPRT)**
+10. **[RC Split Ring Resonator Drawing.png](RC%20Split%20Ring%20Resonator%20Drawing.png)**
+11. **[RC Thin Wire Raster.SLDPRT](RC%20Thin%20Wire%20Raster.SLDPRT)**
+12. **[RC Thin Wire Raster.png](RC%20Thin%20Wire%20Raster.png)**
 
 </details>
 
@@ -232,6 +233,7 @@ Notes from the author that document changes and additions.
 28. (23-8-26) Reworked and fixed some spelling mistakes (the ones i saw at least..) in the readme and i deleted the pdf of ''the secret life of plants'' and replaced it with an internet archive link (https://archive.org/details/secretlifeofplan00tomp/page/n3/mode/2up). this is because i found out that it is not yet in the public domain and could be warranted for a DMCA takedown by the publishers. Personally i would recommend buying the book but i refer to internet archive simply as a neccesity. Better not to piss off ''HarperCollins'' so hereby my formal apology and rectification.
 29. (24-8-26) Updating and heavely reworking part two and possibly renaming it yet again in the future or either splitting it up due to new findings. Also uploaded the new **[Report.pdf](Report.pdf)** and reworked the links in the readme.
 30. (6-9-26) Uploaded the new Report.pdf. Concerning the update: due to adding entirely new chapters and revisiting older parts, it is taking some time. I bit off more than I could chew, so the announcement was placed too early. I plan on finishing it within the next week or so.
+31. (10-9-26) revised readme and put the files formerly from part 2 to appendix and added an placeholder in readme for upcoming updates.
 
 </details>
 
