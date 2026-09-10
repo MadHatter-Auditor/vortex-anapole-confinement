@@ -55,13 +55,22 @@ A foundational duodecimal (Base-12) spatial framework reconciling Vortex Based M
 Part 2 Wu Xing Hardware Architecture: Description 
 =======================================================================
 
-A hardware-native 6-bit instruction set mapping atomic geometry and resistivity into a multi-phase duodecimal matrix by embedding five phase structural qualities directly into a 6-bit binary signal, driven by a hardware mapped duodecimal matrix.
+An exploration that looks at whether the physical size and electrical resistance of atoms can be mapped in a 12-division, and the mapping of the I Ching through form and function to create a new kind of computer hardware based on 5 physical states leveraging the Setun setup.
 
 <details>
   <summary>Part 2 Wu Xing Hardware Architecture: Contents</summary>
 
 1. **[Wu Xing Hardware Architecture.pdf](Wu%20Xing%20Hardware%20Architecture.pdf)**
-2. <<add files and links...>>
+2. **[Elements.png](Elements%20.png)**
+3. **[Elements overvieuw.png](Elements%20overvieuw.png)**
+4. **[Resistance 15 C.png](Resistance%2015%20C.png)**
+5. **[Resistance -129.15 C.png](Resistance%20-129.15%20C.png)**
+6. **[Wu Xing Leibniz YingYang and Tetragrams.png](Wu%20Xing%20Leibniz%20YingYang%20and%20Tetragrams.png)**
+7. **[Wu Xing Leibniz Octet's.png](Wu%20Xing%20Leibniz%20Octet's.png)**
+8. **[Wu Xing Leibniz Final layer.png](Wu%20Xing%20Leibniz%20Final%20layer.png)**
+9. **[Wu Xing Leibniz Complete.png](Wu%20Xing%20Leibniz%20Complete.png)**
+10. **[Wu Xing Leibniz.png](Wu%20Xing%20Leibniz.png)**
+11. **[Setun Setup Wu Xing.png](Setun%20Setup%20Wu%20Xing.png)**
 
 </details>
 
@@ -234,6 +243,7 @@ Notes from the author that document changes and additions.
 29. (24-8-26) Updating and heavely reworking part two and possibly renaming it yet again in the future or either splitting it up due to new findings. Also uploaded the new **[Report.pdf](Report.pdf)** and reworked the links in the readme.
 30. (6-9-26) Uploaded the new Report.pdf. Concerning the update: due to adding entirely new chapters and revisiting older parts, it is taking some time. I bit off more than I could chew, so the announcement was placed too early. I plan on finishing it within the next week or so.
 31. (10-9-26) revised Part 2 description and put the files formerly from part 2 (**[RC Simple coil.SLDPRT](RC%20Simple%20coil.SLDPRT)** **[RC Simple coil.jpg](RC%20Simple%20coil.jpg)** **[RC Split Ring Resonator Drawing.SLDPRT](RC%20Split%20Ring%20Resonator%20Drawing.SLDPRT)** **[RC Split Ring Resonator Drawing.png](RC%20Split%20Ring%20Resonator%20Drawing.png)** **[RC Thin Wire Raster.SLDPRT](RC%20Thin%20Wire%20Raster.SLDPRT)** **[RC Thin Wire Raster.png](RC%20Thin%20Wire%20Raster.png)**) to appendix and added an placeholder in part 2 for upcoming update on that part. Update is nearly finished and will be published either today or tommorow.
+32. (11-9-2026) New update of **[Wu Xing Hardware Architecture.pdf](Wu%20Xing%20Hardware%20Architecture.pdf)**, added whole new chapters and uploaded; **[Elements.png](Elements%20.png)**, **[Elements overvieuw.png](Elements%20overvieuw.png)**, **[Resistance 15 C.png](Resistance%2015%20C.png)**, **[Resistance -129.15 C.png](Resistance%20-129.15%20C.png)**, **[Wu Xing Leibniz YingYang and Tetragrams.png](Wu%20Xing%20Leibniz%20YingYang%20and%20Tetragrams.png)**, **[Wu Xing Leibniz Octet's.png](Wu%20Xing%20Leibniz%20Octet's.png)**,  **[Wu Xing Leibniz Final layer.png](Wu%20Xing%20Leibniz%20Final%20layer.png)**, **[Wu Xing Leibniz Complete.png](Wu%20Xing%20Leibniz%20Complete.png)**, **[Wu Xing Leibniz.png](Wu%20Xing%20Leibniz.png)** and **[Setun Setup Wu Xing.png](Setun%20Setup%20Wu%20Xing.png)**.
 
 </details>
 
