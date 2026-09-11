@@ -141,30 +141,29 @@ Revising a 1927 atmospheric energy patent into an open-source empirical testing 
 6. **[Base parts and Galvanic Cell.SLDASM](Base%20parts%20and%20Galvanic%20Cell.SLDASM)**
 7. **[Complete RCM.png](Complete%20RCM.png)**
 8. **[Complete.SLDASM](Complete.SLDASM)**
-9. **[Galvanic Cell and remaining base.pdf](Galvanic%20Cell%20and%20remaining%20base.pdf)**
-10. **[Galvanic Cell.SLDASM](Galvanic%20Cell.SLDASM)**
-11. **[antenna and TEP.SLDASM](antenna%20and%20TEP.SLDASM)**
-12. **[antenna spikes.SLDPRT](antenna%20spikes.SLDPRT)**
-13. **[antenna.SLDPRT](antenna.SLDPRT)**
-14. **[base Parts 2.SLDASM](base%20Parts%202.SLDASM)**
-15. **[base Parts 3.SLDASM](base%20Parts%203.SLDASM)**
-16. **[base Parts Antenna.SLDASM](base%20Parts%20Antenna.SLDASM)**
-17. **[base Parts P1.SLDDRW](base%20Parts%20P1.SLDDRW)**
-18. **[base Parts.SLDASM](base%20Parts.SLDASM)**
-19. **[base for antenna.SLDPRT](base%20for%20antenna.SLDPRT)**
-20. **[base front.SLDPRT](base%20front.SLDPRT)**
-21. **[base sides.SLDPRT](base%20sides.SLDPRT)**
-22. **[base.SLDPRT](base.SLDPRT)**
-23. **[bolt 2.SLDPRT](bolt%202.SLDPRT)**
-24. **[bolt backside.SLDPRT](bolt%20backside.SLDPRT)**
-25. **[copper.SLDPRT](copper.SLDPRT)**
-26. **[copper 2.SLDPRT](copper%202.SLDPRT)**
-27. **[pin for rod through base.SLDPRT](pin%20for%20rod%20through%20base.SLDPRT)**
-28. **[solding spots.SLDPRT](solding%20spots.SLDPRT)**
-29. **[steel rod trough base.SLDPRT](steel%20rod%20trough%20base.SLDPRT)**
-30. **[tep part.SLDASM](tep%20part.SLDASM)**
-31. **[zink.SLDPRT](zink.SLDPRT)**
-32. **[zink 2.SLDPRT](zink%202.SLDPRT)**
+9. **[Galvanic Cell.SLDASM](Galvanic%20Cell.SLDASM)**
+10. **[antenna and TEP.SLDASM](antenna%20and%20TEP.SLDASM)**
+11. **[antenna spikes.SLDPRT](antenna%20spikes.SLDPRT)**
+12. **[antenna.SLDPRT](antenna.SLDPRT)**
+13. **[base Parts 2.SLDASM](base%20Parts%202.SLDASM)**
+14. **[base Parts 3.SLDASM](base%20Parts%203.SLDASM)**
+15. **[base Parts Antenna.SLDASM](base%20Parts%20Antenna.SLDASM)**
+16. **[base Parts P1.SLDDRW](base%20Parts%20P1.SLDDRW)**
+17. **[base Parts.SLDASM](base%20Parts.SLDASM)**
+18. **[base for antenna.SLDPRT](base%20for%20antenna.SLDPRT)**
+19. **[base front.SLDPRT](base%20front.SLDPRT)**
+20. **[base sides.SLDPRT](base%20sides.SLDPRT)**
+21. **[base.SLDPRT](base.SLDPRT)**
+22. **[bolt 2.SLDPRT](bolt%202.SLDPRT)**
+23. **[bolt backside.SLDPRT](bolt%20backside.SLDPRT)**
+24. **[copper.SLDPRT](copper.SLDPRT)**
+25. **[copper 2.SLDPRT](copper%202.SLDPRT)**
+26. **[pin for rod through base.SLDPRT](pin%20for%20rod%20through%20base.SLDPRT)**
+27. **[solding spots.SLDPRT](solding%20spots.SLDPRT)**
+28. **[steel rod trough base.SLDPRT](steel%20rod%20trough%20base.SLDPRT)**
+29. **[tep part.SLDASM](tep%20part.SLDASM)**
+30. **[zink.SLDPRT](zink.SLDPRT)**
+31. **[zink 2.SLDPRT](zink%202.SLDPRT)**
 
 </details>
 
