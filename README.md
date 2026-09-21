@@ -247,6 +247,7 @@ Notes from the author that document changes and additions.
 34. (13-9-26) reworked **[Wu Xing Leibniz.png](Wu%20Xing%20Leibniz.png)** and **[Wu Xing Hardware Architecture.pdf](Wu%20Xing%20Hardware%20Architecture.pdf)**. Added the subdivisions Yin/Yang, Tetragrams, Octets and final rows in the diagram. Also reuploaded **[Wu Xing Leibniz complete rows.png](Wu%20Xing%20Leibniz%20complete%20rows.png)**, the latter is just a small visual update witch also proved unnesesary difficult to upload correctly, so i renamed it also to Wu Xing Leibniz complete rows because that fixed it..
 35. (19-9-26) Reworked and reuploaded **[Wu Xing Leibniz YingYang Tetragrams.png](Wu%20Xing%20Leibniz%20YingYang%20Tetragrams.png)** **[Wu Xing Leibniz Octet.png](Wu%20Xing%20Leibniz%20Octet.png)**, **[Wu Xing Leibniz Final layer.png](Wu%20Xing%20Leibniz%20Final%20layer.png)**, **[Wu Xing Leibniz complete.png](Wu%20Xing%20Leibniz%20complete.png)** and **[Wu Xing Leibniz.png](Wu%20Xing%20Leibniz.png)**
 36. (20-9-26) Uploaded latest **[Report.pdf](Report.pdf)**.
+37. (21-9-26) Reworked **[Wu Xing Hardware Architecture.pdf](Wu%20Xing%20Hardware%20Architecture.pdf)**, an upgrade on the existing chapters and further elaboration on the differences between this mapping and traditionally.
 
 </details>
 
