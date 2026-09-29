@@ -248,6 +248,7 @@ Notes from the author that document changes and additions.
 35. (19-9-26) Reworked and reuploaded **[Wu Xing Leibniz YingYang Tetragrams.png](Wu%20Xing%20Leibniz%20YingYang%20Tetragrams.png)** **[Wu Xing Leibniz Octet.png](Wu%20Xing%20Leibniz%20Octet.png)**, **[Wu Xing Leibniz Final layer.png](Wu%20Xing%20Leibniz%20Final%20layer.png)**, **[Wu Xing Leibniz complete.png](Wu%20Xing%20Leibniz%20complete.png)** and **[Wu Xing Leibniz.png](Wu%20Xing%20Leibniz.png)**
 36. (20-9-26) Uploaded latest **[Report.pdf](Report.pdf)**.
 37. (21-9-26) Reworked **[Wu Xing Hardware Architecture.pdf](Wu%20Xing%20Hardware%20Architecture.pdf)**, an upgrade on the existing chapters and further elaboration on the differences between this mapping and traditionally.
+38. (29-9-26) No updates in traffic from github. next report will be at a later date than usual. hope this will resolve before data becomes missing.
 
 </details>
 
