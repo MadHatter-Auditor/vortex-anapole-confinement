@@ -249,6 +249,7 @@ Notes from the author that document changes and additions.
 36. (20-9-26) Uploaded latest **[Report.pdf](Report.pdf)**.
 37. (21-9-26) Reworked **[Wu Xing Hardware Architecture.pdf](Wu%20Xing%20Hardware%20Architecture.pdf)**, an upgrade on the existing chapters and further elaboration on the differences between this mapping and traditionally.
 38. (29-9-26) No updates in traffic from github. next report will be at a later date than usual. hope this will resolve before data becomes missing.
+39. (1-10-26) Issue from former notes has been resolved. new Report will be in a couple of day's and luckily at normal pace.
 
 </details>
 
