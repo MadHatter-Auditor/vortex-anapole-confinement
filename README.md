@@ -47,7 +47,7 @@ A foundational duodecimal (Base-12) spatial framework reconciling Vortex Based M
 31. **[Trailokya coil.SLDART](Trailokya%20coil.SLDPRT)**
 32. **[Trailokya coil.png](Trailokya%20coil.png)**
 33. **[Zodiac coil.png](Zodiac%20coil.png)**
-34. **[graph Nordic runes on zodiac.jpg](graph%20Nordic%20runes%20on%20zodiac.jpg)**
+34. **[graph Nordic runes on zodiac.png](graph%20Nordic%20runes%20on%20zodiac.png)**
 
 
 </details>
@@ -167,6 +167,24 @@ Revising a 1927 atmospheric energy patent into an open-source empirical testing 
 
 </details>
 
+Part 6 VBM: Description 
+=======================================================================
+Vortex Based Mathematics from part 1 now as a seperate document.
+
+<details>
+  <summary>Part 6 VBM: Contents</summary>
+
+1. **[VBM.pdf](VBM.pdf)**
+2. **[Alchemical alpha omega torus basis.png](Alchemical%20alpha%20omega%20torus%20basis.png)**
+3. **[Alchemical alpha omega torus.png](Alchemical%20alpha%20omega%20torus.png)**
+4. **[Module-12 Assembly.SLDASM](Module-12%20Assembly.SLDASM)**
+5. **[Module-12 Assembly.png](Module-12%20Assembly.png)**
+6. **[Module-12 Coil main.SLDPRT](Module-12%20Coil%20main.SLDPRT)**
+7. **[Module-12 Coil sub.SLDPRT](Module-12%20Coil%20sub.SLDPRT)**
+8. **[graph Nordic runes on zodiac.png](graph%20Nordic%20runes%20on%20zodiac.png)**
+
+</details>
+
 Appendix: Description 
 =======================================================================
 
@@ -250,6 +268,7 @@ Notes from the author that document changes and additions.
 37. (21-9-26) Reworked **[Wu Xing Hardware Architecture.pdf](Wu%20Xing%20Hardware%20Architecture.pdf)**, an upgrade on the existing chapters and further elaboration on the differences between this mapping and traditionally.
 38. (29-9-26) No updates in traffic from github. next report will be at a later date than usual. hope this will resolve before data becomes missing.
 39. (1-10-26) Issue from former notes has been resolved. new Report will be in a couple of day's and luckily at normal pace.
+40. (2-10-26) added Part 5 RCM **[RCM.pdf](RCM.pdf)**.
 
 </details>
 
