@@ -55,7 +55,7 @@ A foundational duodecimal (Base-12) spatial framework reconciling Vortex Based M
 Part 2 WXSS: Description 
 =======================================================================
 
-An exploration that looks at whether the physical size and electrical resistance of atoms can be mapped in a 12-division, and the mapping of the I Ching through form and function to create a new kind of computer hardware based on 5 physical states leveraging the Setun setup.
+Wu Xing Setun System (WXSS). An exploration that looks at whether the physical size and electrical resistance of atoms can be mapped in a 12-division, and the mapping of the I Ching through form and function to create a new kind of computer hardware based on 5 physical states leveraging the Setun setup.
 
 <details>
   <summary>Part 2 WXSS: Contents</summary>
@@ -77,7 +77,7 @@ An exploration that looks at whether the physical size and electrical resistance
 Part 3 APM: Description 
 =======================================================================
 
-Re-engineering a scientifically flawed 2015 variable reluctance project into a 12-pole Switched Reluctance Machine scaled to exact π/6 fractions and strict ISO-H7 manufacturing tolerances.
+Asteriun Perun Machine (APM). Re-engineering a scientifically flawed 2015 variable reluctance project into a 12-pole Switched Reluctance Machine scaled to exact π/6 fractions and strict ISO-H7 manufacturing tolerances.
 
 <details>
   <summary>Part 3 APM: Contents</summary>
@@ -128,7 +128,7 @@ Tetravigesimal Soyga Framework (TSF). Mapping the mathematical rhythm of the Col
 
 Part 5 RCM: Description 
 =======================================================================
-Revising a 1927 atmospheric energy patent into an open-source empirical testing platform, utilizing the Seebeck effect and galvanic cell coupling to deliver life-stimulating micro-currents to soil ecosystems.
+Revised Christofleau Machine (RCM). Revising a 1927 atmospheric energy patent into an open-source empirical testing platform, utilizing the Seebeck effect and galvanic cell coupling to deliver life-stimulating micro-currents to soil ecosystems.
 
 <details>
   <summary>Part 5 RCM: Contents</summary>
@@ -169,7 +169,7 @@ Revising a 1927 atmospheric energy patent into an open-source empirical testing 
 
 Part 6 VBM: Description 
 =======================================================================
-Vortex Based Mathematics from part 1 now as a seperate document.
+Vortex Based Mathematics (VBM) from part 1 now as a seperate document.
 
 <details>
   <summary>Part 6 VBM: Contents</summary>
@@ -271,7 +271,7 @@ Notes from the author that document changes and additions.
 40. (2-10-26) added Part 5 RCM **[RCM.pdf](RCM.pdf)**.
 41. (4-10-26) Uploaded latest **[Report.pdf](Report.pdf)**.
 42. (19-10-26) Uploaded latest **[Report.pdf](Report.pdf)**. Also did some adjustments to improve Overview.
-43. (24-10-26) new part upcoming elaborating on duodecimal counting. Renamed and reuploaded Wu Xing Hardware Architecture to Wu Xing Setun System - **[WXSS.pdf](WXSS.pdf)** (Wu Xing Setun System). Renamed and reuploaded Soyga to Tetravigesimal Soyga Framework - **[TSF.pdf](TSF.pdf)**
+43. (24-10-26) new part upcoming elaborating on duodecimal counting. Renamed and reuploaded Wu Xing Hardware Architecture to Wu Xing Setun System - **[WXSS.pdf](WXSS.pdf)** (Wu Xing Setun System). Renamed and reuploaded Soyga to Tetravigesimal Soyga Framework - **[TSF.pdf](TSF.pdf)**. Also reworked the description to elaborate on every name. Wu Xing Setun System = WXSS, Asteriun Perun Machine = APM, Tetravigesimal Soyga Framework = TSF, Revised Christofleau Machine = RCM and Vortex Based Mathematics = VBM.
 
 </details>
 
