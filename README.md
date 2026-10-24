@@ -60,7 +60,7 @@ An exploration that looks at whether the physical size and electrical resistance
 <details>
   <summary>Part 2 Wu Xing Hardware Architecture: Contents</summary>
 
-1. **[WXSS.pdf](W%20X%20S%20S.pdf)**
+1. **[WXSS.pdf](W%20X%20S%20S%20.pdf)**
 2. **[Elements.png](Elements%20.png)**
 3. **[Elements overvieuw.png](Elements%20overvieuw.png)**
 4. **[Resistance 15 C.png](Resistance%2015%20C.png)**
