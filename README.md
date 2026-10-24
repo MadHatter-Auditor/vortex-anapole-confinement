@@ -52,7 +52,7 @@ A foundational duodecimal (Base-12) spatial framework reconciling Vortex Based M
 
 </details>
 
-Part 2 Wu Xing Hardware Architecture: Description 
+Part 2 WXSS: Description 
 =======================================================================
 
 An exploration that looks at whether the physical size and electrical resistance of atoms can be mapped in a 12-division, and the mapping of the I Ching through form and function to create a new kind of computer hardware based on 5 physical states leveraging the Setun setup.
@@ -60,7 +60,7 @@ An exploration that looks at whether the physical size and electrical resistance
 <details>
   <summary>Part 2 Wu Xing Hardware Architecture: Contents</summary>
 
-1. **[Wu Xing Hardware Architecture.pdf](Wu%20Xing%20Hardware%20Architecture.pdf)**
+1. **[WXSS.pdf](Wu%20Xing%20Hardware%20Architecture.pdf)**
 2. **[Elements.png](Elements%20.png)**
 3. **[Elements overvieuw.png](Elements%20overvieuw.png)**
 4. **[Resistance 15 C.png](Resistance%2015%20C.png)**
@@ -271,7 +271,7 @@ Notes from the author that document changes and additions.
 40. (2-10-26) added Part 5 RCM **[RCM.pdf](RCM.pdf)**.
 41. (4-10-26) Uploaded latest **[Report.pdf](Report.pdf)**.
 42. (19-10-26) Uploaded latest **[Report.pdf](Report.pdf)**. Also did some adjustments to improve Overview.
-43. 24-10-26) new part upcoming elaborating on duodecimal counting.
+43. (24-10-26) new part upcoming elaborating on duodecimal counting. Renamed and reuploaded Wu Xing Hardware Architecture to WXSS (Wu Xing Setun System).
 
 </details>
 
