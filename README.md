@@ -114,7 +114,7 @@ Part 4 TSF: Description
 Tetravigesimal Soyga Framework (TSF). Mapping the mathematical rhythm of the Collatz Conjecture through a modulo-24 Greek Soyga cipher matrix to track expanding algorithmic loops and correlating that to align with esoteric traditions. 
 
 <details>
-  <summary>Part 4 Soyga: Contents</summary>
+  <summary>Part 4 TSF: Contents</summary>
 
 1. **[TSF.pdf](TSF.pdf)**
 2. **[Greek Collatz Soyga Matrix colloured.xlsx](Greek%20Collatz%20Soyga%20Matrix%20colloured.xlsx)**
