@@ -185,6 +185,25 @@ Vortex Based Mathematics (VBM) from part 1 now as a seperate document.
 
 </details>
 
+Part 7 GDS: Description 
+=======================================================================
+Greek Duodecimal System (GDS) from part 1 now as a seperate document. This part further explores base-12 and goes more into dept on both the history and basic arithmetics of duodecimal.
+
+<details>
+  <summary>Part 7 GDS: Contents</summary>
+
+1. **[GDS.pdf](GDS.pdf)**
+2. **[Comparison denary duodecimal circle 8.jpg](Comparison%20denary%20duodecimal%20circle%208.jpg)**
+3. **[Comparison denary duodecimal circle 12.jpg](Comparison%20denary%20duodecimal%20circle%2012.jpg)**
+4. **[Comparison denary duodecimal.jpg](Comparison%20denary%20duodecimal.jpg)**
+5. **[Denary arethmic.jpg](Denary%20arethmic.jpg)**
+6. **[Denary clock.jpg](Denary%20clock.jpg)**
+7. **[Duodecimal arethmic.jpg](uodecimal%20arethmic.jpg)**
+8. **[Duodecimal clock.jpg](Duodecimal%20clock.jpg)**
+9. **[GDS GMT.jpg](GDS%20GMT.jpg)**
+
+</details>
+
 Appendix: Description 
 =======================================================================
 
@@ -272,6 +291,7 @@ Notes from the author that document changes and additions.
 41. (4-10-26) Uploaded latest **[Report.pdf](Report.pdf)**.
 42. (19-10-26) Uploaded latest **[Report.pdf](Report.pdf)**. Also did some adjustments to improve Overview.
 43. (24-10-26) new part upcoming elaborating on duodecimal counting. Renamed and reuploaded Wu Xing Hardware Architecture to Wu Xing Setun System - **[WXSS.pdf](WXSS.pdf)** (Wu Xing Setun System). Renamed and reuploaded Soyga to Tetravigesimal Soyga Framework - **[TSF.pdf](TSF.pdf)**. Also reworked the description to elaborate on every name. Wu Xing Setun System = WXSS, Asteriun Perun Machine = APM, Tetravigesimal Soyga Framework = TSF, Revised Christofleau Machine = RCM and Vortex Based Mathematics = VBM.
+44. (25-10-26) New part 6 added GDS. containing; **[GDS.pdf](GDS.pdf)**, **[GDS.pdf](GDS.pdf)**, **[Comparison denary duodecimal circle 8.jpg](Comparison%20denary%20duodecimal%20circle%208.jpg)**, **[Comparison denary duodecimal circle 12.jpg](Comparison%20denary%20duodecimal%20circle%2012.jpg)**, **[Comparison denary duodecimal.jpg](Comparison%20denary%20duodecimal.jpg)** **[Denary arethmic.jpg](Denary%20arethmic.jpg)**, **[Denary clock.jpg](Denary%20clock.jpg)**, **[Duodecimal arethmic.jpg](uodecimal%20arethmic.jpg)** **[Duodecimal clock.jpg](Duodecimal%20clock.jpg)** and **[GDS GMT.jpg](GDS%20GMT.jpg)**.
 
 </details>
 
