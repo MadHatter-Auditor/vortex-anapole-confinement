@@ -271,7 +271,7 @@ Notes from the author that document changes and additions.
 40. (2-10-26) added Part 5 RCM **[RCM.pdf](RCM.pdf)**.
 41. (4-10-26) Uploaded latest **[Report.pdf](Report.pdf)**.
 42. (19-10-26) Uploaded latest **[Report.pdf](Report.pdf)**. Also did some adjustments to improve Overview.
-43. (24-10-26) new part upcoming elaborating on duodecimal counting. Renamed and reuploaded Wu Xing Hardware Architecture to Wu Xing Setun System - **[WXSS.pdf](WXSS.pdf)** (Wu Xing Setun System). Renamed and reuploaded Soyga to Tetravigesimal Soyga System - **[TSF.pdf](TSF.pdf)**
+43. (24-10-26) new part upcoming elaborating on duodecimal counting. Renamed and reuploaded Wu Xing Hardware Architecture to Wu Xing Setun System - **[WXSS.pdf](WXSS.pdf)** (Wu Xing Setun System). Renamed and reuploaded Soyga to Tetravigesimal Soyga Framework - **[TSF.pdf](TSF.pdf)**
 
 </details>
 
