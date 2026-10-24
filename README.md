@@ -270,7 +270,8 @@ Notes from the author that document changes and additions.
 39. (1-10-26) Issue from former notes has been resolved. new Report will be in a couple of day's and luckily at normal pace.
 40. (2-10-26) added Part 5 RCM **[RCM.pdf](RCM.pdf)**.
 41. (4-10-26) Uploaded latest **[Report.pdf](Report.pdf)**.
-42. (19-10-26) Uploaded latest **[Report.pdf](Report.pdf)**. Also did some adjustments to improve overvieuw.
+42. (19-10-26) Uploaded latest **[Report.pdf](Report.pdf)**. Also did some adjustments to improve Overview.
+43. 24-10-26) new part upcoming elaborating on duodecimal counting.
 
 </details>
 
