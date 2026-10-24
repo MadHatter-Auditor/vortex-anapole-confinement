@@ -108,15 +108,15 @@ Re-engineering a scientifically flawed 2015 variable reluctance project into a 1
 
 </details>
 
-Part 4 Soyga: Description 
+Part 4 TSF: Description 
 =======================================================================
 
-Mapping the mathematical rhythm of the Collatz Conjecture through a modulo-24 Greek Soyga cipher matrix to track expanding algorithmic loops and correlating that to align with esoteric traditions.
+Tetravigesimal Soyga Framework (TSF). Mapping the mathematical rhythm of the Collatz Conjecture through a modulo-24 Greek Soyga cipher matrix to track expanding algorithmic loops and correlating that to align with esoteric traditions. 
 
 <details>
   <summary>Part 4 Soyga: Contents</summary>
 
-1. **[Soyga.pdf](Soyga.pdf)**
+1. **[TSF.pdf](TSF.pdf)**
 2. **[Greek Collatz Soyga Matrix colloured.xlsx](Greek%20Collatz%20Soyga%20Matrix%20colloured.xlsx)**
 3. **[Greek Collatz Soyga Matrix.xlsx](Greek%20Collatz%20Soyga%20Matrix.xlsx)**
 4. **[Greek Soyga Matrix colloured.xlsx](Greek%20Soyga%20Matrix%20colloured.xlsx)**
@@ -241,21 +241,21 @@ Notes from the author that document changes and additions.
 10. (18-6-26) I got approved to post on hackaday so the project is online there (https://hackaday.io/project/205951-vortex-anapole-confinement), also added **[Zodiac coil.png](Zodiac%20coil.png)** wich i forgot to add.
 11. (19-6-26) Added [part 4 soyga](#part-4-soyga-description), including xlsx files for transparancy.
 12. (21-6-26) Made a new release under version 2.1.0, (https://github.com/MadHatter-Auditor/vortex-anapole-confinement/releases/tag/v2.1.0) added the 2nd 9 day' report.png,9 day'reports.png (moved to **[Report.pdf](Report.pdf)** ) and **[Authors note 21-6-2026.md](Authors%20note%2021-6-2026.txt)** and updated readme accordingly VIVAT SOL ET IGNIS SACER!
-13. (3-7-26) Added [part 5 RCM.](#part-5-RCM-description) electroculture apparatus blueprints, **[Justin Christofleau - Electroculture (English) - 1927.pdf](Justin%20Christofleau%20-%20Electroculture%20(english)%20-%201927.pdf)** to appendix, also adding a new chapter to the [soyga](#part-4-soyga-description), an update to that is incoming.
+13. (3-7-26) Added [part 5 RCM.](#part-5-RCM-description) electroculture apparatus blueprints, **[Justin Christofleau - Electroculture (English) - 1927.pdf](Justin%20Christofleau%20-%20Electroculture%20(english)%20-%201927.pdf)** to appendix, also adding a new chapter to the [soyga](TSF.pdf), an update to that is incoming.
 14. (4-7-26) Added the  3rd 9 day' report.png , 9 day'reports 2.png (moved to **[Report.pdf](Report.pdf)** ) and reworked the readme.
-15. (15-7-26) Updated the [soyga](#part-4-soyga-description), now with the Collatz matrix included, made the [license](LICENSE) a dual license and reworked readme.
+15. (15-7-26) Updated the [soyga](TSF.pdf), now with the Collatz matrix included, made the [license](LICENSE) a dual license and reworked readme.
 16. (16-7-26) Updated the [licenses](LICENSE) to AGPL-3.0-only and made shure i put it down as correctly as i could. also initiated contact with an local university in order to digitalize my personal collection of the works of G.H.Mees, this is is a personal effort to combat lost media.
 17. (17-7-26) Added the 4th 9 day' report.png and 9 day'reports 3.png (moved to **[Report.pdf](Report.pdf)** ), a great thanks to all who are interested! <3. also made slight changes to repository, to remove bloat the .SLDDRW files are removed since there are also drawings and the sourcefiles present. a bitt overkill i would say..
 18. (19-7-26) Made a new release under version 2.2.0. (https://github.com/MadHatter-Auditor/vortex-anapole-confinement/releases/tag/v2.2.0)
 19. (24-7-26) Here is a rough digitalization of Mees Diagrams **[Mees Diagrams "The Book of Signs".pdf](Mees%20Diagrams%20''The%20book%20of%20signs''.pdf)**, this is from personal collection. PEACE PEACE PEACE!
 20. (29-7-26) Added the 5th 9 day' report.png, and 9 day'reports 4.png (moved to **[Report.pdf](Report.pdf)** ).
-21. (30-7-26) Updated the [soyga](#part-4-soyga-description) with a new chapter, also added **[Greek Collatz Soyga Matrix Blocks.xlsx](Greek%20Collatz%20Soyga%20Matrix%20Blocks.xlsx)** for people to look deaper into the logica from the new chapters, later reuploaded soyga.pdf due to an expansions in the last chapter. PS special mention to (missing link) for the first star on this repository! It means a lott and for people discovering this repository i would recomment to have a look at his work, also i changed the name of (formerly) material roadmap into **[Wu Xing Hardware Architecture.pdf](WXSS.pdf)** in part 2, seemed more appropriate. also did a heavy update to the readme with the additions of descriptions and lastly i updated the **[M.A.R.F. The Meta-Academic Response Framework.md](M.A.R.F.%20The%20Meta-Academic%20Response%20Framework.md)**
+21. (30-7-26) Updated the [soyga](TSF.pdf) with a new chapter, also added **[Greek Collatz Soyga Matrix Blocks.xlsx](Greek%20Collatz%20Soyga%20Matrix%20Blocks.xlsx)** for people to look deaper into the logica from the new chapters, later reuploaded soyga.pdf due to an expansions in the last chapter. PS special mention to (missing link) for the first star on this repository! It means a lott and for people discovering this repository i would recomment to have a look at his work, also i changed the name of (formerly) material roadmap into **[Wu Xing Hardware Architecture.pdf](WXSS.pdf)** in part 2, seemed more appropriate. also did a heavy update to the readme with the additions of descriptions and lastly i updated the **[M.A.R.F. The Meta-Academic Response Framework.md](M.A.R.F.%20The%20Meta-Academic%20Response%20Framework.md)**
 22. (31-7-26) Removed the special mention and referral from the README due to an update in repository stars, the referal link also gave a 404. Further now the release of v3.0.0 (https://github.com/MadHatter-Auditor/vortex-anapole-confinement/releases/tag/v3.0.0)
 23. (8-8-26) Reuploaded the last files to clean up the repository, now besides the name you can see if the file is part of Appendix,REPORT,part 1,2,3,4 or 5.
 24. (9-8-26) Added a link to discussions (https://github.com/MadHatter-Auditor/vortex-anapole-confinement/discussions) at the top of the readme.
 25. (11-8-26) Added the 6th 9 day' report.png, and the 9 day'reports 5.png (moved to **[Report.pdf](Report.pdf)** ).
 26. (20-8-26) Added a chapter and a table of contents in the **[RCM.pdf](RCM.pdf)**. Also uploaded The Secret Life of Plants.pdf in the appendix as a source.
-27. (21-8-26) Deleted all the loose reports and uploaded all of them in a pdf, now with per day writen down. This to compile the data and to make the overvieuw easy. **[Report.pdf](Report.pdf)** Also reuploaded **[Soyga.pdf](Soyga.pdf)**,**[Greek Collatz Soyga Matrix colloured.xlsx](Greek%20Collatz%20Soyga%20Matrix%20colloured.xlsx)** and **[Greek Collatz Soyga Matrix.xlsx](Greek%20Collatz%20Soyga%20Matrix.xlsx)** since i fixed a mistake on U-12. ((A=w=1)+(A=𝑓(W)=4)=4+1=5=E and not B probably this was a visual error on my part.)
+27. (21-8-26) Deleted all the loose reports and uploaded all of them in a pdf, now with per day writen down. This to compile the data and to make the overvieuw easy. **[Report.pdf](Report.pdf)** Also reuploaded **[Soyga.pdf](TSF.pdf)**,**[Greek Collatz Soyga Matrix colloured.xlsx](Greek%20Collatz%20Soyga%20Matrix%20colloured.xlsx)** and **[Greek Collatz Soyga Matrix.xlsx](Greek%20Collatz%20Soyga%20Matrix.xlsx)** since i fixed a mistake on U-12. ((A=w=1)+(A=𝑓(W)=4)=4+1=5=E and not B probably this was a visual error on my part.)
 28. (23-8-26) Reworked and fixed some spelling mistakes (the ones i saw at least..) in the readme and i deleted the pdf of ''the secret life of plants'' and replaced it with an internet archive link (https://archive.org/details/secretlifeofplan00tomp/page/n3/mode/2up). this is because i found out that it is not yet in the public domain and could be warranted for a DMCA takedown by the publishers. Personally i would recommend buying the book but i refer to internet archive simply as a neccesity. Better not to piss off ''HarperCollins'' so hereby my formal apology and rectification.
 29. (24-8-26) Updating and heavely reworking part two and possibly renaming it yet again in the future or either splitting it up due to new findings. Also uploaded the new **[Report.pdf](Report.pdf)** and reworked the links in the readme.
 30. (6-9-26) Uploaded the new Report.pdf. Concerning the update: due to adding entirely new chapters and revisiting older parts, it is taking some time. I bit off more than I could chew, so the announcement was placed too early. I plan on finishing it within the next week or so.
@@ -271,7 +271,7 @@ Notes from the author that document changes and additions.
 40. (2-10-26) added Part 5 RCM **[RCM.pdf](RCM.pdf)**.
 41. (4-10-26) Uploaded latest **[Report.pdf](Report.pdf)**.
 42. (19-10-26) Uploaded latest **[Report.pdf](Report.pdf)**. Also did some adjustments to improve Overview.
-43. (24-10-26) new part upcoming elaborating on duodecimal counting. Renamed and reuploaded Wu Xing Hardware Architecture to **[WXSS.pdf](WXSS.pdf)** (Wu Xing Setun System).
+43. (24-10-26) new part upcoming elaborating on duodecimal counting. Renamed and reuploaded Wu Xing Hardware Architecture to Wu Xing Setun System - **[WXSS.pdf](WXSS.pdf)** (Wu Xing Setun System). Renamed and reuploaded Soyga to Tetravigesimal Soyga System - **[TSF.pdf](TSF.pdf)**
 
 </details>
 
