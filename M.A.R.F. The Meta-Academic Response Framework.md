@@ -30,7 +30,7 @@ In responce to numerology and cherry-picking.
 
 <details>
   <summary>Expand</summary>
-(https://www.youtube.com/watch?v=StZcUAPRRac)
+(https://www.youtube.com/watch?v=QvmkRlI6_H0&list=RDQvmkRlI6_H0&start_radio=1)
 </details>
 
 In response to institutional consensus and academic integrity constraints.
