@@ -22,34 +22,35 @@ A foundational duodecimal (Base-12) spatial framework reconciling Vortex Based M
 7. **[Base-12 Microcosm.pdf](Base-12%20Microcosm.pdf)**
 8. **[Bifilar Conical Caduceus Coil.jpg](Bifilar%20Conical%20Caduceus%20Coil.jpg)**
 9. **[Cadecus.SLDPRT](Cadecus.SLDPRT)**
-10. **[Chessboard Duodecimal.jpg](Chessboard%20Duodecimal.jpg)**
-11. **[Chesspieces.jpg](Chesspieces.jpg)**
-12. **[Dodecagram.png](Dodecagram.png)**
-13. **[Handmap.jpg](Handmap.jpg)**
-14. **[Hiemona Coil Measurements radius plus paths.jpg](Hiemona%20Coil%20Measurements%20radius%20plus%20paths.jpg)**
-15. **[Hiemona Coil Paths.jpg](Hiemona%20Coil%20Paths.jpg)**
-16. **[Hiemona Coil.SLDPRT](Hiemona%20Coil.SLDPRT)**
-17. **[Hiemona Coil.jpg](Hiemona%20Coil.jpg)**
-18. **[Hieroglyphica monas.SLDPRT](Hieroglyphica%20monas.SLDPRT)**
-19. **[Module-12 Assembly.SLDASM](Module-12%20Assembly.SLDASM)**
-20. **[Module-12 Assembly.png](Module-12%20Assembly.png)**
-21. **[Module-12 Coil main.SLDPRT](Module-12%20Coil%20main.SLDPRT)**
-22. **[Module-12 Coil sub.SLDPRT](Module-12%20Coil%20sub.SLDPRT)**
-23. **[SOH Antenna fractals.SLDPRT](SOH%20Antenna%20fractals.SLDPRT)**
-24. **[SOH Antenna p2 base.SLDPRT](SOH%20Antenna%20p2%20base.SLDPRT)**
-25. **[SOH Tower.png](SOH%20Tower.png)**
-26. **[SOH fractals collours.png](SOH%20fractals%20collours.png)**
-27. **[Seal of Hermes measurements.jpg](Seal%20of%20Hermes%20measurements.jpg)**
-28. **[Seal of Hermes symbol.SLDPRT](Seal%20of%20Hermes%20symbol.SLDPRT)**
-29. **[Sri Yantra Base Drawing.SLDDRW](Sri%20Yantra%20Base%20Drawing.SLDDRW)**
-30. **[Sri yantra Coil half.SLDPRT](Sri%20yantra%20Coil%20half.SLDPRT)**
-31. **[Sri yantra Coil.SLDPRT](Sri%20yantra%20Coil.SLDPRT)**
-32. **[Sri Yantra measurements radius plus paths.jpg](Sri%20Yantra%20measurements%20radius%20plus%20paths.jpg)**
-33. **[Sri Yantra measurements radius.jpg](Sri%20Yantra%20measurements%20radius.jpg)**
-34. **[Trailokya coil.SLDART](Trailokya%20coil.SLDPRT)**
-35. **[Trailokya coil.png](Trailokya%20coil.png)**
-36. **[Zodiac coil.png](Zodiac%20coil.png)**
-37. **[graph Nordic runes on zodiac.png](graph%20Nordic%20runes%20on%20zodiac.png)**
+10. **[Chessboard Denary.jpg](Chessboard%20Denary.jpg)**
+11. **[Chessboard Duodecimal.jpg](Chessboard%20Duodecimal.jpg)**
+12. **[Chesspieces.jpg](Chesspieces.jpg)**
+13. **[Dodecagram.png](Dodecagram.png)**
+14. **[Handmap.jpg](Handmap.jpg)**
+15. **[Hiemona Coil Measurements radius plus paths.jpg](Hiemona%20Coil%20Measurements%20radius%20plus%20paths.jpg)**
+16. **[Hiemona Coil Paths.jpg](Hiemona%20Coil%20Paths.jpg)**
+17. **[Hiemona Coil.SLDPRT](Hiemona%20Coil.SLDPRT)**
+18. **[Hiemona Coil.jpg](Hiemona%20Coil.jpg)**
+19. **[Hieroglyphica monas.SLDPRT](Hieroglyphica%20monas.SLDPRT)**
+20. **[Module-12 Assembly.SLDASM](Module-12%20Assembly.SLDASM)**
+21. **[Module-12 Assembly.png](Module-12%20Assembly.png)**
+22. **[Module-12 Coil main.SLDPRT](Module-12%20Coil%20main.SLDPRT)**
+23. **[Module-12 Coil sub.SLDPRT](Module-12%20Coil%20sub.SLDPRT)**
+24. **[SOH Antenna fractals.SLDPRT](SOH%20Antenna%20fractals.SLDPRT)**
+25. **[SOH Antenna p2 base.SLDPRT](SOH%20Antenna%20p2%20base.SLDPRT)**
+26. **[SOH Tower.png](SOH%20Tower.png)**
+27. **[SOH fractals collours.png](SOH%20fractals%20collours.png)**
+28. **[Seal of Hermes measurements.jpg](Seal%20of%20Hermes%20measurements.jpg)**
+29. **[Seal of Hermes symbol.SLDPRT](Seal%20of%20Hermes%20symbol.SLDPRT)**
+30. **[Sri Yantra Base Drawing.SLDDRW](Sri%20Yantra%20Base%20Drawing.SLDDRW)**
+31. **[Sri yantra Coil half.SLDPRT](Sri%20yantra%20Coil%20half.SLDPRT)**
+32. **[Sri yantra Coil.SLDPRT](Sri%20yantra%20Coil.SLDPRT)**
+33. **[Sri Yantra measurements radius plus paths.jpg](Sri%20Yantra%20measurements%20radius%20plus%20paths.jpg)**
+34. **[Sri Yantra measurements radius.jpg](Sri%20Yantra%20measurements%20radius.jpg)**
+35. **[Trailokya coil.SLDART](Trailokya%20coil.SLDPRT)**
+36. **[Trailokya coil.png](Trailokya%20coil.png)**
+37. **[Zodiac coil.png](Zodiac%20coil.png)**
+38. **[graph Nordic runes on zodiac.png](graph%20Nordic%20runes%20on%20zodiac.png)**
 
 
 </details>
@@ -294,7 +295,7 @@ Notes from the author that document changes and additions.
 42. (19-10-26) Uploaded latest **[Report.pdf](Report.pdf)**. Also did some adjustments to improve Overview.
 43. (24-10-26) new part upcoming elaborating on duodecimal counting. Renamed and reuploaded Wu Xing Hardware Architecture to Wu Xing Setun System - **[WXSS.pdf](WXSS.pdf)** (Wu Xing Setun System). Renamed and reuploaded Soyga to Tetravigesimal Soyga Framework - **[TSF.pdf](TSF.pdf)**. Also reworked the description to elaborate on every name. Wu Xing Setun System = WXSS, Asteriun Perun Machine = APM, Tetravigesimal Soyga Framework = TSF, Revised Christofleau Machine = RCM and Vortex Based Mathematics = VBM.
 44. (25-10-26) New part 6 added GDS. containing; **[GDS.pdf](GDS.pdf)**, **[GDS.pdf](GDS.pdf)**, **[Comparison denary duodecimal circle 8.jpg](Comparison%20denary%20duodecimal%20circle%208.jpg)**, **[Comparison denary duodecimal circle 12.jpg](Comparison%20denary%20duodecimal%20circle%2012.jpg)**, **[Comparison denary duodecimal.jpg](Comparison%20denary%20duodecimal.jpg)** **[Denary arethmic.jpg](Denary%20arethmic.jpg)**, **[Denary clock.jpg](Denary%20clock.jpg)**, **[Duodecimal arethmic.jpg](uodecimal%20arethmic.jpg)** **[Duodecimal clock.jpg](Duodecimal%20clock.jpg)** and **[GDS GMT.jpg](GDS%20GMT.jpg)**. Also reworked and reuploaded **[Base-12 Microcosm.pdf](Base-12%20Microcosm.pdf)**, the first few chapters are changed with the most notable a more expanded vieuw on the duodecimal clock with the adding of **[Duodecimal clock.jpg](Duodecimal%20clock.jpg)** and **[Denary clock.jpg](Denary%20clock.jpg)** that are also present in the new Part 7.
-45. (27-10-26) reuploaded and uploaded **[Base-12 Microcosm.pdf](Base-12%20Microcosm.pdf)**, **[Chessboard Duodecimal.jpg](Chessboard%20Duodecimal.jpg)** and **[Chesspieces.jpg](Chesspieces.jpg)** Changed chapter about chess and started working on working it out more. i also spotted and fixed an mistake on row 13 collumn 8.
+45. (27-10-26) reuploaded and uploaded **[Base-12 Microcosm.pdf](Base-12%20Microcosm.pdf)**, **[Chessboard Denary.jpg](Chessboard%20Denary.jpg)**, **[Chessboard Duodecimal.jpg](Chessboard%20Duodecimal.jpg)** and **[Chesspieces.jpg](Chesspieces.jpg)** Changed chapter about chess and started working on working it out more. i also spotted and fixed an mistake on row 13 collumn 8.
 
 </details>
 
