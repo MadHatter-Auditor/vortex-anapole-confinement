@@ -214,10 +214,11 @@ Duodecimal Symmetric Phase Domain (DSPH). A theoretical and mathematical framewo
 <details>
   <summary>Appendix: Contents</summary>
 
-1. **[DSPH.pdf](DSPH.pdf)****[Chessboard Denary.jpg](Chessboard%20Denary.jpg)**
-2. **[Chessboard Duodecimal 15x15.jpg](Chessboard%20Duodecimal%2015x15.jpg)**
-3. **[Chessboard Duodecimal.jpg](Chessboard%20Duodecimal.jpg)**
-4. **[Chesspieces.jpg](Chesspieces.jpg)**
+1. **[DSPH.pdf](DSPH.pdf)**
+2. **[Chessboard Denary.jpg](Chessboard%20Denary.jpg)**
+3. **[Chessboard Duodecimal 15x15.jpg](Chessboard%20Duodecimal%2015x15.jpg)**
+4. **[Chessboard Duodecimal.jpg](Chessboard%20Duodecimal.jpg)**
+5. **[Chesspieces.jpg](Chesspieces.jpg)**
 
 
 </details>
